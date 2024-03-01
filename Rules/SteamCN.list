@@ -1,0 +1,16 @@
+HOST,csgo.wmsj.cn,DIRECT
+HOST,dl.steam.clngaa.com,DIRECT
+HOST,dl.steam.ksyna.com,DIRECT
+HOST,dota2.wmsj.cn,DIRECT
+HOST,st.dl.bscstorage.net,DIRECT
+HOST,st.dl.eccdnx.com,DIRECT
+HOST,st.dl.pinyuncloud.com,DIRECT
+HOST,steampipe.steamcontent.tnkjmec.com,DIRECT
+HOST,steampowered.com.8686c.com,DIRECT
+HOST,steamstatic.com.8686c.com,DIRECT
+HOST,wmsjsteam.com,DIRECT
+HOST,xz.pphimalayanrt.com,DIRECT
+HOST-SUFFIX,cm.steampowered.com,DIRECT
+HOST-SUFFIX,steamchina.com,DIRECT
+HOST-SUFFIX,steamcontent.com,DIRECT
+HOST-SUFFIX,steamusercontent.com,DIRECT

@@ -1,0 +1,3 @@
+HOST,np-edge.itunes.apple.com,DIRECT
+HOST,play-edge.itunes.apple.com,DIRECT
+HOST-SUFFIX,tv.apple.com,DIRECT

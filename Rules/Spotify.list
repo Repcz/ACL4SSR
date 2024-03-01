@@ -1,0 +1,9 @@
+HOST-KEYWORD,-spotify-,PROXY
+HOST-KEYWORD,spotify.com,PROXY
+HOST-SUFFIX,pscdn.co,PROXY
+HOST-SUFFIX,scdn.co,PROXY
+HOST-SUFFIX,spoti.fi,PROXY
+HOST-SUFFIX,spotify.com,PROXY
+HOST-SUFFIX,spotifycdn.com,PROXY
+HOST-SUFFIX,spotifycdn.net,PROXY
+USER-AGENT,Spotify*,PROXY

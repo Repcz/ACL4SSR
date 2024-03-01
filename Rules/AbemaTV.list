@@ -1,0 +1,9 @@
+HOST,api-abematv.bucketeer.jp,PROXY
+HOST-KEYWORD,abematv.akamaized.net,PROXY
+HOST-SUFFIX,abema-tv.com,PROXY
+HOST-SUFFIX,abema.io,PROXY
+HOST-SUFFIX,abema.tv,PROXY
+HOST-SUFFIX,ameba.jp,PROXY
+HOST-SUFFIX,hayabusa.io,PROXY
+HOST-SUFFIX,hayabusa.media,PROXY
+USER-AGENT,AbemaTV*,PROXY

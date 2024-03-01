@@ -1,0 +1,7 @@
+HOST,mytvsuperlimited.hb.omtrdc.net,PROXY
+HOST,mytvsuperlimited.sc.omtrdc.net,PROXY
+HOST-KEYWORD,nowtv100,PROXY
+HOST-KEYWORD,rthklive,PROXY
+HOST-SUFFIX,mytvsuper.com,PROXY
+HOST-SUFFIX,tvb.com,PROXY
+USER-AGENT,mytv*,PROXY

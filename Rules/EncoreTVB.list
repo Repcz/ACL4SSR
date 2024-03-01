@@ -1,0 +1,6 @@
+HOST,bcbolt446c5271-a.akamaihd.net,PROXY
+HOST,content.jwplatform.com,PROXY
+HOST,edge.api.brightcove.com,PROXY
+HOST,videos-f.jwpsrv.com,PROXY
+HOST-SUFFIX,encoretvb.com,PROXY
+USER-AGENT,encoreTVB*,PROXY

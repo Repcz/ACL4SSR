@@ -1,0 +1,12 @@
+HOST,d151l6v8er5bdm.cloudfront.net,PROXY
+HOST-KEYWORD,voddazn,PROXY
+HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,PROXY
+HOST-SUFFIX,d1sgwhnao7452x.cloudfront.net,PROXY
+HOST-SUFFIX,dazn-api.com,PROXY
+HOST-SUFFIX,dazn.com,PROXY
+HOST-SUFFIX,dazndn.com,PROXY
+HOST-SUFFIX,dcblivedazn.akamaized.net,PROXY
+HOST-SUFFIX,indazn.com,PROXY
+HOST-SUFFIX,indaznlab.com,PROXY
+HOST-SUFFIX,sentry.io,PROXY
+USER-AGENT,DAZN*,PROXY

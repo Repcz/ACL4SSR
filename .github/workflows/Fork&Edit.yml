@@ -1,0 +1,98 @@
+# 最后更新时间：2024-2-18 16:50
+
+name: Fork Filter lists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+  
+jobs:
+  Fork-FLITER-list:
+    runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Shanghai'
+    
+    steps: 
+    - name: Checkout target repository
+      uses: actions/checkout@v4.1.0
+    
+    - name: Fork ACL4SSR Rules
+      run: |
+        rm -rf Rules
+        mkdir -p Rules
+        git clone -b master https://github.com/ACL4SSR/ACL4SSR.git ACL4SSR_Tmp
+        find ACL4SSR_Tmp/Clash -type f -name '*.list' -exec cp {} Rules \;
+        rm -rf ACL4SSR_Tmp
+
+      # 适配 QuantumultX 规则
+    - name: Edit QuantumultX/Rules
+      run: |
+        cd Rules
+        for file in *.list; do
+        if [ -f "$file" ]; then
+          # 适配
+          sed -i -e 's/, /,/g' \
+                 -e 's/DOMAIN,/HOST,/g' \
+                 -e 's/DOMAIN-/HOST-/g' \
+                 -e 's/IP-CIDR6,/IP6-CIDR,/g' \
+                 -e 's/,no-resolve//g' \
+                 -e 's/,extended-matching$//g' \
+                 -e '/\(OR\|AND\|NOT\|PROCESS-NAME\|URL-REGEX\),/ s/^/#/' \
+                 -e 's| \{1,\}//.*$||' \
+                 -e '/# UPDATED:/d' \
+                 "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+
+    - name: Remove duplicates and lines 
+      run: |
+        cd Rules
+        shopt -s nullglob  # 避免没有匹配的文件时保留原始通配符
+        for file in *.list; do
+          if [ -f "$file" ]; then
+            sorted_file="sorted_${file}"
+            # 使用 grep 去掉包含 # 的行
+            grep -v '#' "$file" | sort | uniq > "$sorted_file"
+            mv "$sorted_file" "$file"
+          else
+            echo "$file not found."
+          fi
+        done
+      shell: bash  
+
+    - name: Add Policy
+      run: |
+        cd Rules
+        for file in *.list; do
+          if [ -f "$file" ]; then
+            sed -i -e '/^[[:space:]]*#/d' -e '/^[[:space:]]*$/d' -e 's/$/,PROXY/' "$file"
+            if echo "$file" | grep -qE "(BanAD|BanEasyList|BanEasyListChina|BanEasyPrivacy|BanProgramAD)"; then
+              sed -i -e 's/,PROXY/,REJECT/g' "$file"
+            elif echo "$file" | grep -qE "(58|360|4399|AccelerateDirectSites|Alibaba|Apple|Baidu|Bilibili|ByteDance|CCTV|^China|^CN|Douyu|Download|GoogleCN|Iqiyi|JD|LeTV|LocalAreaNetwork|MI|Meitu|NetEase|PDD|PPTVPPLive|PublicDirectCDN|Sina|SohuSogo|SteamCN|TapTap|Tencent|UnBan|Vip|WeChat|Wechat|Ximalaya|Xunlei|YYeTs|Youku)"; then
+              sed -i -e 's/,PROXY/,DIRECT/g' "$file"
+            fi
+          else
+            echo "$file not found."
+          fi
+        done
+
+    - name: Add and Commits
+      run: |
+        if [[ -n $(git status -s) ]]; then
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Auto Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')"
+          git push
+        else
+          echo "No changes to commit."
+        fi
+
+    - name: Cleanup Workflow
+      uses: Mattraks/delete-workflow-runs@main
+      with:
+        retain_days: 0
+        keep_minimum_runs: 2
