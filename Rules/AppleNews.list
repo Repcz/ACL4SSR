@@ -1,0 +1,3 @@
+HOST,gspe1-ssl.ls.apple.com,DIRECT
+USER-AGENT,AppleNews*,DIRECT
+USER-AGENT,com.apple.news*,DIRECT

@@ -1,0 +1,5 @@
+HOST,music.youtube.com,PROXY
+USER-AGENT,*YouTubeMusic*,PROXY
+USER-AGENT,*com.google.ios.youtubemusic*,PROXY
+USER-AGENT,YouTubeMusic*,PROXY
+USER-AGENT,com.google.ios.youtubemusic*,PROXY

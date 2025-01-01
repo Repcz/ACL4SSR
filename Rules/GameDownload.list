@@ -1,0 +1,20 @@
+HOST,assets1.xboxlive.com,DIRECT
+HOST,assets2.xboxlive.com ,DIRECT
+HOST,client.hikarifield.co.jp,DIRECT
+HOST,download.cdp.bethesda.net ,DIRECT
+HOST,download.epicgames.com,DIRECT
+HOST,download.hikarifield.co.jp,DIRECT
+HOST,download2.epicgames.com,DIRECT
+HOST,download3.epicgames.com,DIRECT
+HOST,download4.epicgames.com,DIRECT
+HOST,epicgames-download1.akamaized.net,DIRECT
+HOST,gamedownloads-rockstargames-com.akamaized.net,DIRECT
+HOST,gog-cdn-lumen.secure2.footprint.net,DIRECT
+HOST,origin-a.akamaihd.net,DIRECT
+HOST,packagespc.xboxlive.com,DIRECT
+HOST,ssl-lvlt.cdn.ea.com,DIRECT
+HOST,uplaypc-s-ubisoft.cdn.ubionline.com.cn,DIRECT
+HOST,xvcf1.xboxlive.com,DIRECT
+HOST,xvcf2.xboxlive.com,DIRECT
+HOST-SUFFIX,cdn.ubi.com,DIRECT
+HOST-SUFFIX,dyn.riotcdn.net,DIRECT

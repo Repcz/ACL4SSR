@@ -1,0 +1,4 @@
+HOST,d349g9zuie06uo.cloudfront.net,PROXY
+HOST-SUFFIX,channel5.com,PROXY
+HOST-SUFFIX,my5.tv,PROXY
+USER-AGENT,My5*,PROXY

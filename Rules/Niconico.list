@@ -1,0 +1,4 @@
+HOST-SUFFIX,dmc.nico,PROXY
+HOST-SUFFIX,nicovideo.jp,PROXY
+HOST-SUFFIX,nimg.jp,PROXY
+USER-AGENT,Niconico*,PROXY

@@ -1,0 +1,7 @@
+HOST,cloudsync-prod.s3.amazonaws.com,PROXY
+HOST,eaasserts-a.akamaihd.net,PROXY
+HOST,origin-a.akamaihd.net,PROXY
+HOST,originasserts.akamaized.net,PROXY
+HOST,rtm.tnt-ea.com,PROXY
+HOST-SUFFIX,ea.com,PROXY
+HOST-SUFFIX,origin.com,PROXY

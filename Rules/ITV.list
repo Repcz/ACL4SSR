@@ -1,0 +1,4 @@
+HOST,itvpnpmobile-a.akamaihd.net,PROXY
+HOST-SUFFIX,itv.com,PROXY
+HOST-SUFFIX,itvstatic.com,PROXY
+USER-AGENT,ITV_Player*,PROXY

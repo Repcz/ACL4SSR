@@ -1,0 +1,6 @@
+HOST,d3c7rimkq79yfu.cloudfront.net,PROXY
+HOST-SUFFIX,d3c7rimkq79yfu.cloudfront.net,PROXY
+HOST-SUFFIX,linetv.tw,PROXY
+HOST-SUFFIX,profile.line-scdn.net,PROXY
+USER-AGENT,LINE%20TV*,PROXY
+USER-AGENT,LINE*,PROXY

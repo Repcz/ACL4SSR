@@ -1,0 +1,13 @@
+HOST,ai.google.dev,PROXY
+HOST,alkalimakersuite-pa.clients6.google.com,PROXY
+HOST,makersuite.google.com,PROXY
+HOST-KEYWORD,colab,PROXY
+HOST-KEYWORD,developerprofiles,PROXY
+HOST-KEYWORD,generativelanguage,PROXY
+HOST-SUFFIX,apis.google.com,PROXY
+HOST-SUFFIX,bard.google.com,PROXY
+HOST-SUFFIX,deepmind.com,PROXY
+HOST-SUFFIX,deepmind.google,PROXY
+HOST-SUFFIX,gemini.google.com,PROXY
+HOST-SUFFIX,generativeai.google,PROXY
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,PROXY

@@ -1,0 +1,7 @@
+HOST,d1q6f0aelx0por.cloudfront.net,PROXY
+HOST,d2wy8f7a9ursnm.cloudfront.net,PROXY
+HOST,d36jcksde1wxzq.cloudfront.net,PROXY
+HOST-SUFFIX,compose-spec.io,PROXY
+HOST-SUFFIX,docker.com,PROXY
+HOST-SUFFIX,docker.io,PROXY
+HOST-SUFFIX,dockerhub.com,PROXY

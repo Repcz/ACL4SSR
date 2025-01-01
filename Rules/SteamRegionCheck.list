@@ -1,0 +1,17 @@
+HOST,ext1-hkg1.steamserver.net,PROXY
+HOST,ext1-lax1.steamserver.net,PROXY
+HOST,ext1-sgp1.steamserver.net,PROXY
+HOST,ext1-tyo3.steamserver.net,PROXY
+HOST,ext2-hkg1.steamserver.net,PROXY
+HOST,ext2-lax1.steamserver.net,PROXY
+HOST,ext2-sgp1.steamserver.net,PROXY
+HOST,ext2-tyo3.steamserver.net,PROXY
+HOST,ext3-hkg1.steamserver.net,PROXY
+HOST,ext3-sgp1.steamserver.net,PROXY
+HOST,ext3-tyo3.steamserver.net,PROXY
+HOST,ext4-hkg1.steamserver.net,PROXY
+HOST,ext4-sgp1.steamserver.net,PROXY
+HOST,ext4-tyo3.steamserver.net,PROXY
+HOST,ext5-hkg1.steamserver.net,PROXY
+HOST,ext6-hkg1.steamserver.net,PROXY
+HOST,ext7-hkg1.steamserver.net,PROXY

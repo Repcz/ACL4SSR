@@ -1,0 +1,6 @@
+HOST-KEYWORD,abematv.akamaized.net,PROXY
+HOST-SUFFIX,abema.io,PROXY
+HOST-SUFFIX,abema.tv,PROXY
+HOST-SUFFIX,ameba.jp,PROXY
+HOST-SUFFIX,hayabusa.io,PROXY
+USER-AGENT,AbemaTV*,PROXY
