@@ -1,0 +1,7 @@
+# 规则名称: Meitu
+# 规则统计: 4
+
+HOST-SUFFIX,meipai.com,Meitu
+HOST-SUFFIX,meitu.com,Meitu
+HOST-SUFFIX,meitudata.com,Meitu
+HOST-SUFFIX,meitustat.com,Meitu

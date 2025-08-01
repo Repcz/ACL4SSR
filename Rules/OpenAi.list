@@ -1,0 +1,19 @@
+# 规则名称: OpenAi
+# 规则统计: 16
+
+HOST-SUFFIX,auth0.com,OpenAi
+HOST-SUFFIX,challenges.cloudflare.com,OpenAi
+HOST-SUFFIX,chatgpt.com,OpenAi
+HOST-SUFFIX,client-api.arkoselabs.com,OpenAi
+HOST-SUFFIX,events.statsigapi.net,OpenAi
+HOST-SUFFIX,featuregates.org,OpenAi
+HOST-SUFFIX,identrust.com,OpenAi
+HOST-SUFFIX,intercom.io,OpenAi
+HOST-SUFFIX,intercomcdn.com,OpenAi
+HOST-SUFFIX,oaistatic.com,OpenAi
+HOST-SUFFIX,oaiusercontent.com,OpenAi
+HOST-SUFFIX,openai.com,OpenAi
+HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAi
+HOST-SUFFIX,sentry.io,OpenAi
+HOST-SUFFIX,stripe.com,OpenAi
+HOST-KEYWORD,openai,OpenAi

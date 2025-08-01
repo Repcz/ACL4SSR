@@ -1,0 +1,13 @@
+# 规则名称: SohuSogo
+# 规则统计: 10
+
+HOST-SUFFIX,go2map.com,SohuSogo
+HOST-SUFFIX,sogo.com,SohuSogo
+HOST-SUFFIX,sogou.com,SohuSogo
+HOST-SUFFIX,sogoucdn.com,SohuSogo
+HOST-SUFFIX,sohu-inc.com,SohuSogo
+HOST-SUFFIX,sohu.com,SohuSogo
+HOST-SUFFIX,sohucs.com,SohuSogo
+HOST-SUFFIX,sohuno.com,SohuSogo
+HOST-SUFFIX,sohurdc.com,SohuSogo
+HOST-SUFFIX,v-56.com,SohuSogo

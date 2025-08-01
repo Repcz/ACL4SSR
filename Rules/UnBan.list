@@ -1,0 +1,21 @@
+# 规则名称: UnBan
+# 规则统计: 18
+
+HOST,app.adjust.com,UnBan
+HOST,bdtj.tagtic.cn,UnBan
+HOST,dl.google.com,UnBan
+HOST,errlog.umeng.com,UnBan
+HOST,fairplay.l.qq.com,UnBan
+HOST,livew.l.qq.com,UnBan
+HOST,msg.umeng.com,UnBan
+HOST,msg.umengcloud.com,UnBan
+HOST,origin-a.akamaihd.net,UnBan
+HOST,rewards.hypixel.net,UnBan
+HOST,tracking.miui.com,UnBan
+HOST,vd.l.qq.com,UnBan
+HOST-SUFFIX,dizhensubao.getui.com,UnBan
+HOST-SUFFIX,googletraveladservices.com,UnBan
+HOST-SUFFIX,koodomobile.ca,UnBan
+HOST-SUFFIX,koodomobile.com,UnBan
+HOST-SUFFIX,ol.epicgames.com,UnBan
+HOST-SUFFIX,tracking-protection.cdn.mozilla.net,UnBan

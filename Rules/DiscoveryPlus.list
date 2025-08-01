@@ -1,0 +1,6 @@
+# 规则名称: DiscoveryPlus
+# 规则统计: 3
+
+HOST-SUFFIX,disco-api.com,DiscoveryPlus
+HOST-SUFFIX,discovery.com,DiscoveryPlus
+HOST-SUFFIX,uplynk.com,DiscoveryPlus

@@ -1,0 +1,19 @@
+# 规则名称: ChinaOneKeyLogin
+# 规则统计: 16
+
+HOST,auth.wosms.cn,ChinaOneKeyLogin
+HOST,config.cmpassport.com,ChinaOneKeyLogin
+HOST,enrichgw.10010.com,ChinaOneKeyLogin
+HOST,hmrz.wo.cn,ChinaOneKeyLogin
+HOST,id.mail.wo.cn,ChinaOneKeyLogin
+HOST,log.cmpassport.com,ChinaOneKeyLogin
+HOST,log1.cmpassport.com,ChinaOneKeyLogin
+HOST,mdn.open.wo.cn,ChinaOneKeyLogin
+HOST,nishub1.10010.com,ChinaOneKeyLogin
+HOST,opencloud.wostore.cn,ChinaOneKeyLogin
+HOST,ye.dun.163yun.com,ChinaOneKeyLogin
+HOST-SUFFIX,auth.wo.cn,ChinaOneKeyLogin
+HOST-SUFFIX,cmpassport.com,ChinaOneKeyLogin
+HOST-SUFFIX,id6.me,ChinaOneKeyLogin
+HOST-SUFFIX,mob.com,ChinaOneKeyLogin
+HOST-SUFFIX,open.e.189.cn,ChinaOneKeyLogin

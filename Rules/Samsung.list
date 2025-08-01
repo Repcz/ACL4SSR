@@ -1,0 +1,24 @@
+# 规则名称: Samsung
+# 规则统计: 21
+
+HOST-SUFFIX,aibixby.com.cn,Samsung
+HOST-SUFFIX,aspserver.cn,Samsung
+HOST-SUFFIX,bixbyai.cn,Samsung
+HOST-SUFFIX,bixbydevelopers.cn,Samsung
+HOST-SUFFIX,bixbyllm.com.cn,Samsung
+HOST-SUFFIX,cloudpifarms.cn,Samsung
+HOST-SUFFIX,coapciserver.cn,Samsung
+HOST-SUFFIX,cspserver.cn,Samsung
+HOST-SUFFIX,galaxyclub.cn,Samsung
+HOST-SUFFIX,mdc-dev.cn,Samsung
+HOST-SUFFIX,mdc-prd.cn,Samsung
+HOST-SUFFIX,mdc-stg.cn,Samsung
+HOST-SUFFIX,secb2b.com.cn,Samsung
+HOST-SUFFIX,smartthingstlm.cn,Samsung
+HOST-SUFFIX,srcbeijing.com,Samsung
+HOST-SUFFIX,srcgsre.com,Samsung
+HOST-SUFFIX,sreminder.cn,Samsung
+HOST-SUFFIX,stadmin.cn,Samsung
+HOST-SUFFIX,streleng.cn,Samsung
+HOST-SUFFIX,yogiio.cn,Samsung
+HOST-KEYWORD,samsung,Samsung
