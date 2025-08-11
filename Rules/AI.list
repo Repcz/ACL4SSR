@@ -1,7 +1,8 @@
 # 规则名称: AI
-# 规则统计: 39
+# 规则统计: 43
 
 HOST,ai.google.dev,AI
+HOST,aistudio.google.com,AI
 HOST,api.githubcopilot.com,AI
 HOST,api.groq.com,AI
 HOST,api.together.xyz,AI
@@ -17,9 +18,12 @@ HOST-SUFFIX,auth0.com,AI
 HOST-SUFFIX,bard.google.com,AI
 HOST-SUFFIX,chatgpt.com,AI
 HOST-SUFFIX,claude.ai,AI
+HOST-SUFFIX,claudeusercontent.com,AI
 HOST-SUFFIX,client-api.arkoselabs.com,AI
 HOST-SUFFIX,copilot.cloud.microsoft,AI
 HOST-SUFFIX,copilot.microsoft.com,AI
+HOST-SUFFIX,curosr.com,AI
+HOST-SUFFIX,curosr.sh,AI
 HOST-SUFFIX,events.statsigapi.net,AI
 HOST-SUFFIX,featuregates.org,AI
 HOST-SUFFIX,gemini.google.com,AI

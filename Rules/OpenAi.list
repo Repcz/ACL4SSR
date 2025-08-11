@@ -1,5 +1,5 @@
 # 规则名称: OpenAi
-# 规则统计: 16
+# 规则统计: 17
 
 HOST-SUFFIX,auth0.com,OpenAi
 HOST-SUFFIX,challenges.cloudflare.com,OpenAi
@@ -15,5 +15,6 @@ HOST-SUFFIX,oaiusercontent.com,OpenAi
 HOST-SUFFIX,openai.com,OpenAi
 HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAi
 HOST-SUFFIX,sentry.io,OpenAi
+HOST-SUFFIX,sora.com,OpenAi
 HOST-SUFFIX,stripe.com,OpenAi
 HOST-KEYWORD,openai,OpenAi

@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 629
+# 规则统计: 630
 
 HOST,auth.wosms.cn,ChinaDomain
 HOST,config.cmpassport.com,ChinaDomain
@@ -423,6 +423,7 @@ HOST-SUFFIX,quanmin.tv,ChinaDomain
 HOST-SUFFIX,qunar.com,ChinaDomain
 HOST-SUFFIX,qunarzz.com,ChinaDomain
 HOST-SUFFIX,qupu123.com,ChinaDomain
+HOST-SUFFIX,qwen.ai,ChinaDomain
 HOST-SUFFIX,qy.net,ChinaDomain
 HOST-SUFFIX,realme.com,ChinaDomain
 HOST-SUFFIX,repaik.com,ChinaDomain

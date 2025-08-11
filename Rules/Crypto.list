@@ -1,5 +1,5 @@
 # 规则名称: Crypto
-# 规则统计: 249
+# 规则统计: 250
 
 HOST,min-api.cryptocompare.com,Crypto
 HOST,token-api.metaswap.codefi.network,Crypto
@@ -170,6 +170,7 @@ HOST-SUFFIX,huobiasia.vip,Crypto
 HOST-SUFFIX,huobigroup.com,Crypto
 HOST-SUFFIX,huobitoken.com,Crypto
 HOST-SUFFIX,icodrops.com,Crypto
+HOST-SUFFIX,infura.io,Crypto
 HOST-SUFFIX,intotheblock.com,Crypto
 HOST-SUFFIX,ipfs.io,Crypto
 HOST-SUFFIX,jaxx.io,Crypto

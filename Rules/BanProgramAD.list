@@ -1,5 +1,5 @@
 # 规则名称: BanProgramAD
-# 规则统计: 1017
+# 规则统计: 1016
 
 HOST,adsmind.apdcdn.tc.qq.com,BanProgramAD
 HOST,adsmind.gdtimg.com,BanProgramAD
@@ -968,7 +968,6 @@ HOST-SUFFIX,wm.baidu.cn,BanProgramAD
 HOST-SUFFIX,wm.baidu.com,BanProgramAD
 HOST-SUFFIX,wpsweb-dc.wps.cn,BanProgramAD
 HOST-SUFFIX,ws.progrss.yahoo.com,BanProgramAD
-HOST-SUFFIX,wtradv.market.xiaomi.com,BanProgramAD
 HOST-SUFFIX,wwis-dubc1-vip60.adobe.com,BanProgramAD
 HOST-SUFFIX,xdcs-collector.ximalaya.com,BanProgramAD
 HOST-SUFFIX,xgcsr.com,BanProgramAD

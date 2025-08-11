@@ -1,5 +1,5 @@
 # 规则名称: BanEasyPrivacy
-# 规则统计: 39531
+# 规则统计: 39704
 
 HOST-SUFFIX,0.myikas.com,BanEasyPrivacy
 HOST-SUFFIX,0.net.easyjet.com,BanEasyPrivacy
@@ -137,6 +137,7 @@ HOST-SUFFIX,671c.pandasuite.io,BanEasyPrivacy
 HOST-SUFFIX,68-175.net.jumia.co.ke,BanEasyPrivacy
 HOST-SUFFIX,682a5845.b-cdn.net,BanEasyPrivacy
 HOST-SUFFIX,69-74.net.jumia.sn,BanEasyPrivacy
+HOST-SUFFIX,6dp0i7.ru,BanEasyPrivacy
 HOST-SUFFIX,6nwp0r33a71m.app.dev.cardahealth.com,BanEasyPrivacy
 HOST-SUFFIX,6pal.consobaby.com,BanEasyPrivacy
 HOST-SUFFIX,6swu.cpa-france.org,BanEasyPrivacy
@@ -182,7 +183,6 @@ HOST-SUFFIX,9kkjfywjz50v.www.eventus.io,BanEasyPrivacy
 HOST-SUFFIX,9kvnwwkj.pandasuite.io,BanEasyPrivacy
 HOST-SUFFIX,9l3cr6dvk2kb.adaptive.marketing,BanEasyPrivacy
 HOST-SUFFIX,9uim1pc4ej4n.ru.themoneytizer.com,BanEasyPrivacy
-HOST-SUFFIX,9w2zed1szg.execute-api.us-east-1.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,9ywl0cwf7e37m5yi.tapin.gg,BanEasyPrivacy
 HOST-SUFFIX,a-api.skz.dev,BanEasyPrivacy
 HOST-SUFFIX,a-da.invideo.io,BanEasyPrivacy
@@ -4721,6 +4721,7 @@ HOST-SUFFIX,affiliate.dietician-family.jp,BanEasyPrivacy
 HOST-SUFFIX,affiliate.htb-energy.co.jp,BanEasyPrivacy
 HOST-SUFFIX,affiliate.k-uno.co.jp,BanEasyPrivacy
 HOST-SUFFIX,affiliate.kgcshop.jp,BanEasyPrivacy
+HOST-SUFFIX,affiliate.kinguin.net,BanEasyPrivacy
 HOST-SUFFIX,affiliate.logitravel.com,BanEasyPrivacy
 HOST-SUFFIX,affiliate.ouchi.coop,BanEasyPrivacy
 HOST-SUFFIX,affiliate.petitwedding.com,BanEasyPrivacy
@@ -4932,7 +4933,6 @@ HOST-SUFFIX,amplitude.chess.com,BanEasyPrivacy
 HOST-SUFFIX,ampltd.medal.tv,BanEasyPrivacy
 HOST-SUFFIX,ampltd.top.gg,BanEasyPrivacy
 HOST-SUFFIX,ampltd2.medal.tv,BanEasyPrivacy
-HOST-SUFFIX,ams-pageview-public.s3.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,ams.lelong.com.my,BanEasyPrivacy
 HOST-SUFFIX,ams.oraclecloud.com,BanEasyPrivacy
 HOST-SUFFIX,amsunsolar.actonservice.com,BanEasyPrivacy
@@ -4964,6 +4964,7 @@ HOST-SUFFIX,analysis.aws.locondo.jp,BanEasyPrivacy
 HOST-SUFFIX,analysis.fi,BanEasyPrivacy
 HOST-SUFFIX,analysis.prod.joyfru.jiji.com,BanEasyPrivacy
 HOST-SUFFIX,analyt.ir,BanEasyPrivacy
+HOST-SUFFIX,analytic-client.blitzmightyparty.com,BanEasyPrivacy
 HOST-SUFFIX,analytic-client.chickgoddess.com,BanEasyPrivacy
 HOST-SUFFIX,analytic-client.panowars.com,BanEasyPrivacy
 HOST-SUFFIX,analytic.alabama.aaa.com,BanEasyPrivacy
@@ -4993,12 +4994,12 @@ HOST-SUFFIX,analytics-cf.bigcrunch.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-cms.whitebeard.me,BanEasyPrivacy
 HOST-SUFFIX,analytics-coletor-site.ojc.com.br,BanEasyPrivacy
 HOST-SUFFIX,analytics-dataplane.invideo.io,BanEasyPrivacy
+HOST-SUFFIX,analytics-fe.digital-cloud-prem.medallia.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-gw.games.wanmei.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-hub.3plearning.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-lgs.corebridgefinancial.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-nssl.bradyid.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-prd.aws.wehaa.net,BanEasyPrivacy
-HOST-SUFFIX,analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-prod2.glance-internal.inmobi.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-production.hapyak.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-proxy.springboard.com,BanEasyPrivacy
@@ -5010,6 +5011,7 @@ HOST-SUFFIX,analytics-ssl.allconnect.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-ssl.bradyid.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-ssl.seton.co.uk,BanEasyPrivacy
 HOST-SUFFIX,analytics-stamp.confi.com.vc,BanEasyPrivacy
+HOST-SUFFIX,analytics-tracker.thescore.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-tracking.meetup.com,BanEasyPrivacy
 HOST-SUFFIX,analytics-wcms.joins.net,BanEasyPrivacy
 HOST-SUFFIX,analytics-zone-1.api.leadfamly.com,BanEasyPrivacy
@@ -5192,6 +5194,7 @@ HOST-SUFFIX,analytics.greenmountainenergy.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.groupe-seb.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.growthphysics.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.gtechgroup.it,BanEasyPrivacy
+HOST-SUFFIX,analytics.gtflixtv.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.gvim.mobi,BanEasyPrivacy
 HOST-SUFFIX,analytics.hambleden-capital.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.hardrock.com,BanEasyPrivacy
@@ -5232,7 +5235,9 @@ HOST-SUFFIX,analytics.kellyservices.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.kerns.co,BanEasyPrivacy
 HOST-SUFFIX,analytics.kkb.com.tr,BanEasyPrivacy
 HOST-SUFFIX,analytics.klickly.com,BanEasyPrivacy
+HOST-SUFFIX,analytics.komiku.org,BanEasyPrivacy
 HOST-SUFFIX,analytics.kongregate.io,BanEasyPrivacy
+HOST-SUFFIX,analytics.kurocore.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.laregione.ch,BanEasyPrivacy
 HOST-SUFFIX,analytics.lasegunda.ecn.cl,BanEasyPrivacy
 HOST-SUFFIX,analytics.lemoolah.com,BanEasyPrivacy
@@ -5243,6 +5248,7 @@ HOST-SUFFIX,analytics.littlekingdesigns.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.liveact.cri-mw.jp,BanEasyPrivacy
 HOST-SUFFIX,analytics.livesense.marketing,BanEasyPrivacy
 HOST-SUFFIX,analytics.livestream.com,BanEasyPrivacy
+HOST-SUFFIX,analytics.loadweb.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.logsss.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.lunaweb.cloud,BanEasyPrivacy
 HOST-SUFFIX,analytics.lunge.de,BanEasyPrivacy
@@ -5355,6 +5361,9 @@ HOST-SUFFIX,analytics.pollardwater.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.pop2watch.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.prezly.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.productreview.com.au,BanEasyPrivacy
+HOST-SUFFIX,analytics.propensity.com,BanEasyPrivacy
+HOST-SUFFIX,analytics.pyksid.com,BanEasyPrivacy
+HOST-SUFFIX,analytics.python.org,BanEasyPrivacy
 HOST-SUFFIX,analytics.qogita.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.qualcomm.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.qualityquestions.co,BanEasyPrivacy
@@ -5432,6 +5441,7 @@ HOST-SUFFIX,analytics.thehartford.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.theinstitutes.org,BanEasyPrivacy
 HOST-SUFFIX,analytics.themarketiq.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.threedeepmarketing.com,BanEasyPrivacy
+HOST-SUFFIX,analytics.ticimax.cloud,BanEasyPrivacy
 HOST-SUFFIX,analytics.ticinolibero.ch,BanEasyPrivacy
 HOST-SUFFIX,analytics.tiktok.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.tio.ch,BanEasyPrivacy
@@ -5534,6 +5544,7 @@ HOST-SUFFIX,analytics.yolacdn.net,BanEasyPrivacy
 HOST-SUFFIX,analytics.yollamedia.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.yomedia.vn,BanEasyPrivacy
 HOST-SUFFIX,analytics.yugen.to,BanEasyPrivacy
+HOST-SUFFIX,analytics.yyggames.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.zagg.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.zevvle.com,BanEasyPrivacy
 HOST-SUFFIX,analytics.ziftsolutions.com,BanEasyPrivacy
@@ -5559,7 +5570,6 @@ HOST-SUFFIX,analyticssec.overwolf.com,BanEasyPrivacy
 HOST-SUFFIX,analyticsssl.forcepoint.com,BanEasyPrivacy
 HOST-SUFFIX,analyzer.fc2.com,BanEasyPrivacy
 HOST-SUFFIX,analyzer2.fc2.com,BanEasyPrivacy
-HOST-SUFFIX,analyzer51.fc2.com,BanEasyPrivacy
 HOST-SUFFIX,anapp.adobe.com,BanEasyPrivacy
 HOST-SUFFIX,andlache.com,BanEasyPrivacy
 HOST-SUFFIX,android.txtsmarter.com,BanEasyPrivacy
@@ -6778,6 +6788,7 @@ HOST-SUFFIX,atlanticlabequipment.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,atlastravel.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,atlasworldusa.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,atlkse.aosom.it,BanEasyPrivacy
+HOST-SUFFIX,atmtd.com,BanEasyPrivacy
 HOST-SUFFIX,atom-log.3.cn,BanEasyPrivacy
 HOST-SUFFIX,ats.alot.com,BanEasyPrivacy
 HOST-SUFFIX,ats.otto.de,BanEasyPrivacy
@@ -7271,6 +7282,7 @@ HOST-SUFFIX,bgaycm.exvital-shop.de,BanEasyPrivacy
 HOST-SUFFIX,bgevqy.moschino.com,BanEasyPrivacy
 HOST-SUFFIX,bgfmvc.amandalindroth.com,BanEasyPrivacy
 HOST-SUFFIX,bgiamericas.actonservice.com,BanEasyPrivacy
+HOST-SUFFIX,bgtfr-test.mno.link,BanEasyPrivacy
 HOST-SUFFIX,bgupcq.westfalia.de,BanEasyPrivacy
 HOST-SUFFIX,bh-test.groc.press,BanEasyPrivacy
 HOST-SUFFIX,bh.groc.press,BanEasyPrivacy
@@ -8019,11 +8031,13 @@ HOST-SUFFIX,cd.chemistanddruggist.co.uk,BanEasyPrivacy
 HOST-SUFFIX,cdanjoyner4374.myre.io,BanEasyPrivacy
 HOST-SUFFIX,cdeatz.spartoo.it,BanEasyPrivacy
 HOST-SUFFIX,cdfhpj.automobile.it,BanEasyPrivacy
+HOST-SUFFIX,cdjbf8trk.com,BanEasyPrivacy
 HOST-SUFFIX,cdjhcf.hometogo.es,BanEasyPrivacy
 HOST-SUFFIX,cdl.booksy.com,BanEasyPrivacy
 HOST-SUFFIX,cdl.lvsafe.io,BanEasyPrivacy
 HOST-SUFFIX,cdl2.booksy.com,BanEasyPrivacy
 HOST-SUFFIX,cdn-channels-pixel.ex.co,BanEasyPrivacy
+HOST-SUFFIX,cdn-eu.usefathom.com,BanEasyPrivacy
 HOST-SUFFIX,cdn-rum.ngenix.net,BanEasyPrivacy
 HOST-SUFFIX,cdn.arcstudiopro.com,BanEasyPrivacy
 HOST-SUFFIX,cdn.net.dz.jumia.com,BanEasyPrivacy
@@ -8165,7 +8179,9 @@ HOST-SUFFIX,clarium.global.ssl.fastly.net,BanEasyPrivacy
 HOST-SUFFIX,claruscommerce.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,classroominc.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,claynelsonlifebalance.actonservice.com,BanEasyPrivacy
+HOST-SUFFIX,clb.yahoo.co.jp,BanEasyPrivacy
 HOST-SUFFIX,clck.dzen.ru,BanEasyPrivacy
+HOST-SUFFIX,clcktrax.com,BanEasyPrivacy
 HOST-SUFFIX,cleanservices.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,clear.wallapop.com,BanEasyPrivacy
 HOST-SUFFIX,clearbitscripts.com,BanEasyPrivacy
@@ -8221,6 +8237,7 @@ HOST-SUFFIX,click.pockee.com,BanEasyPrivacy
 HOST-SUFFIX,click.quickenloansnow.com,BanEasyPrivacy
 HOST-SUFFIX,click.redditmail.com,BanEasyPrivacy
 HOST-SUFFIX,click.rollouki.com,BanEasyPrivacy
+HOST-SUFFIX,click.rypr.ru,BanEasyPrivacy
 HOST-SUFFIX,click.signaturemarket.co,BanEasyPrivacy
 HOST-SUFFIX,click.sutra.co,BanEasyPrivacy
 HOST-SUFFIX,click.techtree.jp,BanEasyPrivacy
@@ -8265,6 +8282,7 @@ HOST-SUFFIX,clicks.tyuwq.com,BanEasyPrivacy
 HOST-SUFFIX,clicks.variis.com,BanEasyPrivacy
 HOST-SUFFIX,clicks2.hqo.co,BanEasyPrivacy
 HOST-SUFFIX,clickserver.libero.it,BanEasyPrivacy
+HOST-SUFFIX,clickstream.sberbank.ru,BanEasyPrivacy
 HOST-SUFFIX,clicktracker.iscan.nl,BanEasyPrivacy
 HOST-SUFFIX,client-analytics.braintreegateway.com,BanEasyPrivacy
 HOST-SUFFIX,client-analytics.mts.ru,BanEasyPrivacy
@@ -8322,8 +8340,6 @@ HOST-SUFFIX,cloud-miner.eu,BanEasyPrivacy
 HOST-SUFFIX,cloud.diagral.fr,BanEasyPrivacy
 HOST-SUFFIX,cloud.trapptechnology.com,BanEasyPrivacy
 HOST-SUFFIX,cloud.webtrack.online,BanEasyPrivacy
-HOST-SUFFIX,clouderrorreporting.googleapis.com,BanEasyPrivacy
-HOST-SUFFIX,cloudfront-labs.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,cloudhosting-business.vodafone.com,BanEasyPrivacy
 HOST-SUFFIX,cloudhosting.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,cloudmetrics.xenforo.com,BanEasyPrivacy
@@ -8506,6 +8522,7 @@ HOST-SUFFIX,collector.githubapp.com,BanEasyPrivacy
 HOST-SUFFIX,collector.hippodromeonline.com,BanEasyPrivacy
 HOST-SUFFIX,collector.mazeberry.com,BanEasyPrivacy
 HOST-SUFFIX,collector.megaxh.com,BanEasyPrivacy
+HOST-SUFFIX,collector.net-logger.com,BanEasyPrivacy
 HOST-SUFFIX,collector.pi.spectrum.net,BanEasyPrivacy
 HOST-SUFFIX,collector.quillbot.com,BanEasyPrivacy
 HOST-SUFFIX,collector.schibsted.io,BanEasyPrivacy
@@ -8635,6 +8652,7 @@ HOST-SUFFIX,comunicaciones.paginasamarillas.es,BanEasyPrivacy
 HOST-SUFFIX,comunicaciones.pymas.com.co,BanEasyPrivacy
 HOST-SUFFIX,comunicazioni.bancamediolanum.it,BanEasyPrivacy
 HOST-SUFFIX,comviewcorp.actonservice.com,BanEasyPrivacy
+HOST-SUFFIX,conan.screencast-o-matic.com,BanEasyPrivacy
 HOST-SUFFIX,conf.optum.com,BanEasyPrivacy
 HOST-SUFFIX,conference.all-energy.com.au,BanEasyPrivacy
 HOST-SUFFIX,conference.flsmidth.com,BanEasyPrivacy
@@ -9017,6 +9035,7 @@ HOST-SUFFIX,counter.yadro.ru,BanEasyPrivacy
 HOST-SUFFIX,counter2.blog.livedoor.com,BanEasyPrivacy
 HOST-SUFFIX,counter247.live,BanEasyPrivacy
 HOST-SUFFIX,counters.freewebs.com,BanEasyPrivacy
+HOST-SUFFIX,counters.libertaddigital.com,BanEasyPrivacy
 HOST-SUFFIX,covenant.psjhealth.org,BanEasyPrivacy
 HOST-SUFFIX,cowhmc.docmorris.de,BanEasyPrivacy
 HOST-SUFFIX,coyizl.embracon.com.br,BanEasyPrivacy
@@ -9082,6 +9101,7 @@ HOST-SUFFIX,crmcommunications.progressive.com,BanEasyPrivacy
 HOST-SUFFIX,crmonline.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,crocetta.viessmann.it,BanEasyPrivacy
 HOST-SUFFIX,crossees.com,BanEasyPrivacy
+HOST-SUFFIX,crossengage.io,BanEasyPrivacy
 HOST-SUFFIX,crrm.onjoyri.de,BanEasyPrivacy
 HOST-SUFFIX,crs.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,crta.and.co.uk,BanEasyPrivacy
@@ -9202,6 +9222,8 @@ HOST-SUFFIX,customercare.aircycle.com,BanEasyPrivacy
 HOST-SUFFIX,customerexperience.verintsystemsinc.com,BanEasyPrivacy
 HOST-SUFFIX,customerrelations.theinstitutes.org,BanEasyPrivacy
 HOST-SUFFIX,customers-capitalbank-jo-877029.p06.elqsandbox.com,BanEasyPrivacy
+HOST-SUFFIX,customers.edgetag.io,BanEasyPrivacy
+HOST-SUFFIX,customers.xray-superpixel.com,BanEasyPrivacy
 HOST-SUFFIX,customersucceed.nanophase.com,BanEasyPrivacy
 HOST-SUFFIX,customfingerprints.bablosoft.com,BanEasyPrivacy
 HOST-SUFFIX,customize.titanfactorydirect.com,BanEasyPrivacy
@@ -10023,6 +10045,7 @@ HOST-SUFFIX,dd.bellesdemeures.com,BanEasyPrivacy
 HOST-SUFFIX,dd.betano.com,BanEasyPrivacy
 HOST-SUFFIX,dd.control4.com,BanEasyPrivacy
 HOST-SUFFIX,dd.g2.com,BanEasyPrivacy
+HOST-SUFFIX,dd.garena.com,BanEasyPrivacy
 HOST-SUFFIX,dd.leboncoin.fr,BanEasyPrivacy
 HOST-SUFFIX,dd.nytimes.com,BanEasyPrivacy
 HOST-SUFFIX,dd.seloger-bureaux-commerces.com,BanEasyPrivacy
@@ -10594,6 +10617,7 @@ HOST-SUFFIX,dmcnyf.nevzatonay.com,BanEasyPrivacy
 HOST-SUFFIX,dmdgdu.atmosphera.com,BanEasyPrivacy
 HOST-SUFFIX,dmepyodjotcuks.com,BanEasyPrivacy
 HOST-SUFFIX,dmkt.solutions.cas.org,BanEasyPrivacy
+HOST-SUFFIX,dmndfrcstng.com,BanEasyPrivacy
 HOST-SUFFIX,dmp.citynews.ovh,BanEasyPrivacy
 HOST-SUFFIX,dmpcdn.el-mundo.net,BanEasyPrivacy
 HOST-SUFFIX,dmpmetrics.rcsmetrics.it,BanEasyPrivacy
@@ -10722,6 +10746,7 @@ HOST-SUFFIX,dtag.breadfinancial.com,BanEasyPrivacy
 HOST-SUFFIX,dtestpromo.fiat.it,BanEasyPrivacy
 HOST-SUFFIX,dtmssl.bobcat.com,BanEasyPrivacy
 HOST-SUFFIX,dtnmyp.cocotorico.com,BanEasyPrivacy
+HOST-SUFFIX,dtpen.mno.link,BanEasyPrivacy
 HOST-SUFFIX,dtqcpx.eskor.se,BanEasyPrivacy
 HOST-SUFFIX,dtr-onsite-feed.datarize.ai,BanEasyPrivacy
 HOST-SUFFIX,dttrk.com,BanEasyPrivacy
@@ -11028,7 +11053,7 @@ HOST-SUFFIX,ecn-analytics-nssl.emc.com,BanEasyPrivacy
 HOST-SUFFIX,ecn-analytics.emc.com,BanEasyPrivacy
 HOST-SUFFIX,ecn-ldr.de,BanEasyPrivacy
 HOST-SUFFIX,ecomm.events,BanEasyPrivacy
-HOST-SUFFIX,ecommstats.s3.amazonaws.com,BanEasyPrivacy
+HOST-SUFFIX,ecommerce-events.adscale.com,BanEasyPrivacy
 HOST-SUFFIX,econnect.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,economicadvantage.midamerican.com,BanEasyPrivacy
 HOST-SUFFIX,economies.adp.ca,BanEasyPrivacy
@@ -11889,6 +11914,7 @@ HOST-SUFFIX,ermiph.petermanningnyc.com,BanEasyPrivacy
 HOST-SUFFIX,eroar.lionsclubs.org,BanEasyPrivacy
 HOST-SUFFIX,erp.qwic.nl,BanEasyPrivacy
 HOST-SUFFIX,err.ifengcloud.ifeng.com,BanEasyPrivacy
+HOST-SUFFIX,error-analytics-production.shopifysvc.com,BanEasyPrivacy
 HOST-SUFFIX,error-analytics-sessions-production.shopifysvc.com,BanEasyPrivacy
 HOST-SUFFIX,error-collector.ted.com,BanEasyPrivacy
 HOST-SUFFIX,error.videonow.ru,BanEasyPrivacy
@@ -12038,6 +12064,7 @@ HOST-SUFFIX,event.raise3d.cn,BanEasyPrivacy
 HOST-SUFFIX,event.seatradecruiseevents.com,BanEasyPrivacy
 HOST-SUFFIX,event.seatradecruiseglobal.com,BanEasyPrivacy
 HOST-SUFFIX,event.spektare.com,BanEasyPrivacy
+HOST-SUFFIX,event.syftdata.com,BanEasyPrivacy
 HOST-SUFFIX,event.syndigo.cloud,BanEasyPrivacy
 HOST-SUFFIX,event.tagtoo.co,BanEasyPrivacy
 HOST-SUFFIX,event.thermofisher.com,BanEasyPrivacy
@@ -12127,6 +12154,7 @@ HOST-SUFFIX,events.oddo-bhf.com,BanEasyPrivacy
 HOST-SUFFIX,events.onet.pl,BanEasyPrivacy
 HOST-SUFFIX,events.paramount.tech,BanEasyPrivacy
 HOST-SUFFIX,events.pella.com,BanEasyPrivacy
+HOST-SUFFIX,events.pickrr.com,BanEasyPrivacy
 HOST-SUFFIX,events.plus.yandex.net,BanEasyPrivacy
 HOST-SUFFIX,events.practo.com,BanEasyPrivacy
 HOST-SUFFIX,events.prd.api.max.com,BanEasyPrivacy
@@ -12142,6 +12170,7 @@ HOST-SUFFIX,events.ricoh.ie,BanEasyPrivacy
 HOST-SUFFIX,events.s4long.com,BanEasyPrivacy
 HOST-SUFFIX,events.santander.co.uk,BanEasyPrivacy
 HOST-SUFFIX,events.shareably.net,BanEasyPrivacy
+HOST-SUFFIX,events.shoplift.ai,BanEasyPrivacy
 HOST-SUFFIX,events.sk.ht,BanEasyPrivacy
 HOST-SUFFIX,events.splash-screen.net,BanEasyPrivacy
 HOST-SUFFIX,events.squarespace.com,BanEasyPrivacy
@@ -12152,6 +12181,7 @@ HOST-SUFFIX,events.tryamped.com,BanEasyPrivacy
 HOST-SUFFIX,events.tubecup.org,BanEasyPrivacy
 HOST-SUFFIX,events.turbosquid.com,BanEasyPrivacy
 HOST-SUFFIX,events.ubembed.com,BanEasyPrivacy
+HOST-SUFFIX,events.verifymy.io,BanEasyPrivacy
 HOST-SUFFIX,events.verticurl.com,BanEasyPrivacy
 HOST-SUFFIX,events.whisk.com,BanEasyPrivacy
 HOST-SUFFIX,events.yourcx.io,BanEasyPrivacy
@@ -12292,6 +12322,7 @@ HOST-SUFFIX,f5.track-mv-01.com,BanEasyPrivacy
 HOST-SUFFIX,f775.thehour.com,BanEasyPrivacy
 HOST-SUFFIX,f8phvntohv.tpetry.me,BanEasyPrivacy
 HOST-SUFFIX,f928.pandasuite.io,BanEasyPrivacy
+HOST-SUFFIX,fa5.dn4.it,BanEasyPrivacy
 HOST-SUFFIX,fabryczna.viessmann.pl,BanEasyPrivacy
 HOST-SUFFIX,fac.fanucamerica.com,BanEasyPrivacy
 HOST-SUFFIX,face2.ishoppingapp.com,BanEasyPrivacy
@@ -12308,7 +12339,10 @@ HOST-SUFFIX,fahmta.polishexpress.co.uk,BanEasyPrivacy
 HOST-SUFFIX,fahmta.racefans.net,BanEasyPrivacy
 HOST-SUFFIX,fahmta.theaa.com,BanEasyPrivacy
 HOST-SUFFIX,fairdatacenter.de,BanEasyPrivacy
+HOST-SUFFIX,fakexa-post.mno.link,BanEasyPrivacy
 HOST-SUFFIX,fal2.carrefour-banque.fr,BanEasyPrivacy
+HOST-SUFFIX,fallback.attntags.com,BanEasyPrivacy
+HOST-SUFFIX,fallback.emtag.net,BanEasyPrivacy
 HOST-SUFFIX,familydoctor-app.hotdoc.com.au,BanEasyPrivacy
 HOST-SUFFIX,familypractice-app.hotdoc.com.au,BanEasyPrivacy
 HOST-SUFFIX,fan.info.heat.com,BanEasyPrivacy
@@ -12352,6 +12386,7 @@ HOST-SUFFIX,fcpszk.telestream.net,BanEasyPrivacy
 HOST-SUFFIX,fcswcx.cyrillus.fr,BanEasyPrivacy
 HOST-SUFFIX,fculcz.joann.com,BanEasyPrivacy
 HOST-SUFFIX,fd.bawag.at,BanEasyPrivacy
+HOST-SUFFIX,fd.ivoclar.com,BanEasyPrivacy
 HOST-SUFFIX,fdbs.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,fdiinc.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,fdixsh.platypusshoes.com.au,BanEasyPrivacy
@@ -12454,7 +12489,6 @@ HOST-SUFFIX,fkdaik.lightinthebox.com,BanEasyPrivacy
 HOST-SUFFIX,fkeupa.bett1.de,BanEasyPrivacy
 HOST-SUFFIX,fkmdky.lifehacker.ru,BanEasyPrivacy
 HOST-SUFFIX,fkmzox.teinei.co.jp,BanEasyPrivacy
-HOST-SUFFIX,fkrkkmxsqeb5bj9r.s3.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,fksngj.bonnyread.com.tw,BanEasyPrivacy
 HOST-SUFFIX,fkupm8697t19.eyevolution.de,BanEasyPrivacy
 HOST-SUFFIX,fkwc.sfr.fr,BanEasyPrivacy
@@ -12584,6 +12618,7 @@ HOST-SUFFIX,fpa-cdn.adweek.com,BanEasyPrivacy
 HOST-SUFFIX,fpa-cdn.arstechnica.com,BanEasyPrivacy
 HOST-SUFFIX,fpadga.mcruises.ru,BanEasyPrivacy
 HOST-SUFFIX,fpapi.io,BanEasyPrivacy
+HOST-SUFFIX,fpaudience.com,BanEasyPrivacy
 HOST-SUFFIX,fpb8.esce.fr,BanEasyPrivacy
 HOST-SUFFIX,fpc.acpinternist.org,BanEasyPrivacy
 HOST-SUFFIX,fpc.acpjournals.org,BanEasyPrivacy
@@ -12676,6 +12711,7 @@ HOST-SUFFIX,frdoki.selftanning.work,BanEasyPrivacy
 HOST-SUFFIX,frdoki.studioglass.work,BanEasyPrivacy
 HOST-SUFFIX,frdoki.woodblock.work,BanEasyPrivacy
 HOST-SUFFIX,frenchgerleman.actonservice.com,BanEasyPrivacy
+HOST-SUFFIX,freshatl.azurewebsites.net,BanEasyPrivacy
 HOST-SUFFIX,fresnel-events.vimeocdn.com,BanEasyPrivacy
 HOST-SUFFIX,fridaymarketing.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,friends.hyll.com,BanEasyPrivacy
@@ -12886,6 +12922,7 @@ HOST-SUFFIX,gejzgq.gehaltsvergleich.com,BanEasyPrivacy
 HOST-SUFFIX,generaleducation.graduateprogram.org,BanEasyPrivacy
 HOST-SUFFIX,genesis.malwarebytes.com,BanEasyPrivacy
 HOST-SUFFIX,gentian-frd.hjapi.com,BanEasyPrivacy
+HOST-SUFFIX,geo.bdg.com,BanEasyPrivacy
 HOST-SUFFIX,geo.brobible.com,BanEasyPrivacy
 HOST-SUFFIX,geo.emol.cl,BanEasyPrivacy
 HOST-SUFFIX,geo.ertya.com,BanEasyPrivacy
@@ -13012,7 +13049,6 @@ HOST-SUFFIX,get.pslove.dev,BanEasyPrivacy
 HOST-SUFFIX,get.pulsega.me,BanEasyPrivacy
 HOST-SUFFIX,get.qapital.com,BanEasyPrivacy
 HOST-SUFFIX,get.recolor.info,BanEasyPrivacy
-HOST-SUFFIX,get.revolut.com,BanEasyPrivacy
 HOST-SUFFIX,get.reward.me,BanEasyPrivacy
 HOST-SUFFIX,get.riyazapp.com,BanEasyPrivacy
 HOST-SUFFIX,get.roomiapp.com,BanEasyPrivacy
@@ -13183,7 +13219,6 @@ HOST-SUFFIX,go-dev.callersmart.com,BanEasyPrivacy
 HOST-SUFFIX,go-dev.qantaswellbeing.com,BanEasyPrivacy
 HOST-SUFFIX,go-elqau.oracle.com,BanEasyPrivacy
 HOST-SUFFIX,go-marketing.comed.com,BanEasyPrivacy
-HOST-SUFFIX,go-mpulse.net,BanEasyPrivacy
 HOST-SUFFIX,go-response.thermofisher.com,BanEasyPrivacy
 HOST-SUFFIX,go-stage.oracle.com,BanEasyPrivacy
 HOST-SUFFIX,go-staging.qantaswellbeing.com,BanEasyPrivacy
@@ -13327,7 +13362,6 @@ HOST-SUFFIX,go.emersonautomation.com,BanEasyPrivacy
 HOST-SUFFIX,go.engiestorage.com,BanEasyPrivacy
 HOST-SUFFIX,go.engineeringim.com,BanEasyPrivacy
 HOST-SUFFIX,go.enterprise.spectrum.com,BanEasyPrivacy
-HOST-SUFFIX,go.esri.fi,BanEasyPrivacy
 HOST-SUFFIX,go.europe.mingle.com,BanEasyPrivacy
 HOST-SUFFIX,go.event.eset.com,BanEasyPrivacy
 HOST-SUFFIX,go.everfave.com,BanEasyPrivacy
@@ -13630,6 +13664,7 @@ HOST-SUFFIX,go.test.mindfi.co,BanEasyPrivacy
 HOST-SUFFIX,go.test.shop.app,BanEasyPrivacy
 HOST-SUFFIX,go.testo.com,BanEasyPrivacy
 HOST-SUFFIX,go.thai.innovatedating.com,BanEasyPrivacy
+HOST-SUFFIX,go.thegrocer.co.uk,BanEasyPrivacy
 HOST-SUFFIX,go.ticketbiz.se,BanEasyPrivacy
 HOST-SUFFIX,go.tigertool.com,BanEasyPrivacy
 HOST-SUFFIX,go.tinder.com,BanEasyPrivacy
@@ -13815,7 +13850,6 @@ HOST-SUFFIX,gtm.mandesager.dk,BanEasyPrivacy
 HOST-SUFFIX,gtm.wise.com,BanEasyPrivacy
 HOST-SUFFIX,gtmfsstatic.getgoogletagmanager.com,BanEasyPrivacy
 HOST-SUFFIX,gtreus.aliexpress.com,BanEasyPrivacy
-HOST-SUFFIX,gtrk.s3.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,gtzpic.opodo.co.uk,BanEasyPrivacy
 HOST-SUFFIX,guardian-app.hotdoc.com.au,BanEasyPrivacy
 HOST-SUFFIX,guardiancu.actonservice.com,BanEasyPrivacy
@@ -13949,6 +13983,7 @@ HOST-SUFFIX,healthcasts.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,healthgrades.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,healthier.aahs.org,BanEasyPrivacy
 HOST-SUFFIX,healthier.luminishealth.org,BanEasyPrivacy
+HOST-SUFFIX,healthroundprince.com,BanEasyPrivacy
 HOST-SUFFIX,heap-api.com,BanEasyPrivacy
 HOST-SUFFIX,heap.drop.com,BanEasyPrivacy
 HOST-SUFFIX,hearob.klix.ba,BanEasyPrivacy
@@ -14021,6 +14056,7 @@ HOST-SUFFIX,hines.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,hipizza.openapp.link,BanEasyPrivacy
 HOST-SUFFIX,hipkqt.contorion.de,BanEasyPrivacy
 HOST-SUFFIX,hirsung.de,BanEasyPrivacy
+HOST-SUFFIX,histais.com,BanEasyPrivacy
 HOST-SUFFIX,hit.cnbce.com,BanEasyPrivacy
 HOST-SUFFIX,hit.mybestpro.com,BanEasyPrivacy
 HOST-SUFFIX,hit.salesfire.co.uk,BanEasyPrivacy
@@ -14248,6 +14284,7 @@ HOST-SUFFIX,hyxvec.michaelpage.co.jp,BanEasyPrivacy
 HOST-SUFFIX,hyybul.kaskus.co.id,BanEasyPrivacy
 HOST-SUFFIX,hzeetn.natalie.mu,BanEasyPrivacy
 HOST-SUFFIX,hzoouw.s-re.jp,BanEasyPrivacy
+HOST-SUFFIX,hzstats.com,BanEasyPrivacy
 HOST-SUFFIX,hzuheh.palcloset.jp,BanEasyPrivacy
 HOST-SUFFIX,hzvsld.fr.filorga.com,BanEasyPrivacy
 HOST-SUFFIX,hzymxd.nocibe.fr,BanEasyPrivacy
@@ -14310,6 +14347,7 @@ HOST-SUFFIX,icas.ikea.com,BanEasyPrivacy
 HOST-SUFFIX,icas.ikea.net,BanEasyPrivacy
 HOST-SUFFIX,icaubf.casamundo.de,BanEasyPrivacy
 HOST-SUFFIX,icfckg.myft.com.br,BanEasyPrivacy
+HOST-SUFFIX,icg-in.com,BanEasyPrivacy
 HOST-SUFFIX,icharts.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,icmakp.united-arrows.tw,BanEasyPrivacy
 HOST-SUFFIX,icoktb.onygo.com,BanEasyPrivacy
@@ -15840,6 +15878,7 @@ HOST-SUFFIX,insights.jackporter.com,BanEasyPrivacy
 HOST-SUFFIX,insights.journey.world,BanEasyPrivacy
 HOST-SUFFIX,insights.labcorp.com,BanEasyPrivacy
 HOST-SUFFIX,insights.morrismohawk.ca,BanEasyPrivacy
+HOST-SUFFIX,insights.mtv.a2d.tv,BanEasyPrivacy
 HOST-SUFFIX,insights.networks.global.fujitsu.com,BanEasyPrivacy
 HOST-SUFFIX,insights.nexansdatacenter.com,BanEasyPrivacy
 HOST-SUFFIX,insights.nowitmatters.com,BanEasyPrivacy
@@ -15894,6 +15933,7 @@ HOST-SUFFIX,interedgemarketing.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,interest.truvenhealth.com,BanEasyPrivacy
 HOST-SUFFIX,internal-analytics.odoo.com,BanEasyPrivacy
 HOST-SUFFIX,internal-e.posthog.com,BanEasyPrivacy
+HOST-SUFFIX,internal-t.posthog.com,BanEasyPrivacy
 HOST-SUFFIX,internal.hcltech.com,BanEasyPrivacy
 HOST-SUFFIX,internalcomms.dbschenker.com,BanEasyPrivacy
 HOST-SUFFIX,internalcomms.hubinternational.com,BanEasyPrivacy
@@ -16490,6 +16530,7 @@ HOST-SUFFIX,kiqwal.autoscout24.es,BanEasyPrivacy
 HOST-SUFFIX,kiqwil.l-m.co.jp,BanEasyPrivacy
 HOST-SUFFIX,kirsrn.runway-webstore.com,BanEasyPrivacy
 HOST-SUFFIX,kistacity.viessmann.se,BanEasyPrivacy
+HOST-SUFFIX,kit22.com,BanEasyPrivacy
 HOST-SUFFIX,kitchen.juicer.cc,BanEasyPrivacy
 HOST-SUFFIX,kiwi.mdldb.net,BanEasyPrivacy
 HOST-SUFFIX,kjdfho.eidaihouse.com,BanEasyPrivacy
@@ -16544,6 +16585,7 @@ HOST-SUFFIX,kpcyic.sportisimo.cz,BanEasyPrivacy
 HOST-SUFFIX,kpfvaq.schuhe.de,BanEasyPrivacy
 HOST-SUFFIX,kqchxa.denizbutik.com,BanEasyPrivacy
 HOST-SUFFIX,kqdqrj.traktorpool.de,BanEasyPrivacy
+HOST-SUFFIX,kqefj.clearstem.com,BanEasyPrivacy
 HOST-SUFFIX,kqhckf.outfits24.de,BanEasyPrivacy
 HOST-SUFFIX,kqkcoq.vidaxl.fr,BanEasyPrivacy
 HOST-SUFFIX,kqkydl.postel-deluxe.ru,BanEasyPrivacy
@@ -17807,6 +17849,7 @@ HOST-SUFFIX,livestats.kaltura.com,BanEasyPrivacy
 HOST-SUFFIX,livestats.matrix.it,BanEasyPrivacy
 HOST-SUFFIX,liveviewer.ez.no,BanEasyPrivacy
 HOST-SUFFIX,liveyield.com,BanEasyPrivacy
+HOST-SUFFIX,lizard.donald.cat,BanEasyPrivacy
 HOST-SUFFIX,lj5s1u8ct5vz.app.chatpay.dev,BanEasyPrivacy
 HOST-SUFFIX,ljb0.assuronline.com,BanEasyPrivacy
 HOST-SUFFIX,ljbpfe.notino.es,BanEasyPrivacy
@@ -17858,6 +17901,7 @@ HOST-SUFFIX,lnk2.patpat.com,BanEasyPrivacy
 HOST-SUFFIX,lnntnt.hsastore.com,BanEasyPrivacy
 HOST-SUFFIX,lntvby.banggood.com,BanEasyPrivacy
 HOST-SUFFIX,lnxfgm.party-calendar.net,BanEasyPrivacy
+HOST-SUFFIX,load.nootiz.com,BanEasyPrivacy
 HOST-SUFFIX,loans.rategenius.com,BanEasyPrivacy
 HOST-SUFFIX,loansales.cbre.com,BanEasyPrivacy
 HOST-SUFFIX,local-shares.ri.la,BanEasyPrivacy
@@ -17926,6 +17970,7 @@ HOST-SUFFIX,log.targetpush.co.kr,BanEasyPrivacy
 HOST-SUFFIX,log.tossinvest.com,BanEasyPrivacy
 HOST-SUFFIX,log.ttbc-hcm.gov.vn,BanEasyPrivacy
 HOST-SUFFIX,log.webnovel.com,BanEasyPrivacy
+HOST-SUFFIX,log.willie.nl,BanEasyPrivacy
 HOST-SUFFIX,log.worldsoft-cms.info,BanEasyPrivacy
 HOST-SUFFIX,log.zdnet.co.kr,BanEasyPrivacy
 HOST-SUFFIX,log.zongheng.com,BanEasyPrivacy
@@ -17933,6 +17978,7 @@ HOST-SUFFIX,log2.sina.cn,BanEasyPrivacy
 HOST-SUFFIX,logapi.alza.cz,BanEasyPrivacy
 HOST-SUFFIX,logbak.hicloud.com,BanEasyPrivacy
 HOST-SUFFIX,logcollector.note.com,BanEasyPrivacy
+HOST-SUFFIX,logger-test.mno.link,BanEasyPrivacy
 HOST-SUFFIX,logger.bzu.kr,BanEasyPrivacy
 HOST-SUFFIX,logger.nerdwallet.com,BanEasyPrivacy
 HOST-SUFFIX,logger.omio.com,BanEasyPrivacy
@@ -17962,6 +18008,7 @@ HOST-SUFFIX,logs.51cto.com,BanEasyPrivacy
 HOST-SUFFIX,logs.adplay.ru,BanEasyPrivacy
 HOST-SUFFIX,logs.animaapp.com,BanEasyPrivacy
 HOST-SUFFIX,logs.chatboost-cv.algoage.co.jp,BanEasyPrivacy
+HOST-SUFFIX,logs.dynamicauth.com,BanEasyPrivacy
 HOST-SUFFIX,logs.hotstar.com,BanEasyPrivacy
 HOST-SUFFIX,logs.mezmo.com,BanEasyPrivacy
 HOST-SUFFIX,logs.naukri.com,BanEasyPrivacy
@@ -17986,6 +18033,7 @@ HOST-SUFFIX,loopcybersec.com,BanEasyPrivacy
 HOST-SUFFIX,lord.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,lordofthesuperfrogs.com,BanEasyPrivacy
 HOST-SUFFIX,lotte.myomee.com,BanEasyPrivacy
+HOST-SUFFIX,love.vidora.su,BanEasyPrivacy
 HOST-SUFFIX,loveeveryday.brighterkind.com,BanEasyPrivacy
 HOST-SUFFIX,lowermybills.actonsoftware.com,BanEasyPrivacy
 HOST-SUFFIX,lowgxl.yokumoku.jp,BanEasyPrivacy
@@ -19944,6 +19992,7 @@ HOST-SUFFIX,matheranalytics.com,BanEasyPrivacy
 HOST-SUFFIX,mathilde-ads.com,BanEasyPrivacy
 HOST-SUFFIX,mato.clanto.cloud,BanEasyPrivacy
 HOST-SUFFIX,matomo.clanto.cloud,BanEasyPrivacy
+HOST-SUFFIX,matomo3.org,BanEasyPrivacy
 HOST-SUFFIX,matrix.elecle.bike,BanEasyPrivacy
 HOST-SUFFIX,matrix.hbo.com,BanEasyPrivacy
 HOST-SUFFIX,matrix.itshboanytime.com,BanEasyPrivacy
@@ -21761,6 +21810,7 @@ HOST-SUFFIX,mgefhu.suomi24.fi,BanEasyPrivacy
 HOST-SUFFIX,mggakg.littleblack.co.kr,BanEasyPrivacy
 HOST-SUFFIX,mgixgn.wittchen.com,BanEasyPrivacy
 HOST-SUFFIX,mgn.ebis.xn--olsz5f0ufw02b.net,BanEasyPrivacy
+HOST-SUFFIX,mgntat.mno.link,BanEasyPrivacy
 HOST-SUFFIX,mgptul.finson.com,BanEasyPrivacy
 HOST-SUFFIX,mgt7.madeindesign.it,BanEasyPrivacy
 HOST-SUFFIX,mh9qqwotr890.koelewijn.nl,BanEasyPrivacy
@@ -21833,7 +21883,6 @@ HOST-SUFFIX,mixomniture.rbs.com,BanEasyPrivacy
 HOST-SUFFIX,mixpanel-proxy.coingecko.com,BanEasyPrivacy
 HOST-SUFFIX,mixpanel-proxy.ted.com,BanEasyPrivacy
 HOST-SUFFIX,mixxuo.sportys.gr,BanEasyPrivacy
-HOST-SUFFIX,mj-snowplow-static-js.s3.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,mjca-yijws.global.ssl.fastly.net,BanEasyPrivacy
 HOST-SUFFIX,mjfunt.bibi.com,BanEasyPrivacy
 HOST-SUFFIX,mjjvkx.monoprice.com,BanEasyPrivacy
@@ -21923,6 +21972,7 @@ HOST-SUFFIX,mmobsz.edenviaggi.it,BanEasyPrivacy
 HOST-SUFFIX,mmulsx.comet.it,BanEasyPrivacy
 HOST-SUFFIX,mmwlwm.autoscout24.pl,BanEasyPrivacy
 HOST-SUFFIX,mmz3.beinsports.com,BanEasyPrivacy
+HOST-SUFFIX,mnbvpo8trk.com,BanEasyPrivacy
 HOST-SUFFIX,mnbyto.goo-net.com,BanEasyPrivacy
 HOST-SUFFIX,mnfqyj.corello.com.br,BanEasyPrivacy
 HOST-SUFFIX,mnrddc.journeys.com,BanEasyPrivacy
@@ -22113,6 +22163,7 @@ HOST-SUFFIX,mws.verisk.com,BanEasyPrivacy
 HOST-SUFFIX,mwxema.galerieslafayette.com,BanEasyPrivacy
 HOST-SUFFIX,mx.carfax.com,BanEasyPrivacy
 HOST-SUFFIX,mx.carte-gr.total.fr,BanEasyPrivacy
+HOST-SUFFIX,mx.eneba.com,BanEasyPrivacy
 HOST-SUFFIX,mx.happ.social,BanEasyPrivacy
 HOST-SUFFIX,mx.information.maileva.com,BanEasyPrivacy
 HOST-SUFFIX,mx.mywd.com,BanEasyPrivacy
@@ -22398,7 +22449,6 @@ HOST-SUFFIX,ninja.akamaized.net,BanEasyPrivacy
 HOST-SUFFIX,ninja.onap.io,BanEasyPrivacy
 HOST-SUFFIX,nirdjz.revolveclothing.com.au,BanEasyPrivacy
 HOST-SUFFIX,nisaapp.nexus-dt.com,BanEasyPrivacy
-HOST-SUFFIX,nitrous-analytics.s3.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,njnlih.realitatea.net,BanEasyPrivacy
 HOST-SUFFIX,njorya.aosom.de,BanEasyPrivacy
 HOST-SUFFIX,njtwub.schneider.de,BanEasyPrivacy
@@ -22626,7 +22676,6 @@ HOST-SUFFIX,o398.trumbulltimes.com,BanEasyPrivacy
 HOST-SUFFIX,o3gxzoewxl1x.cp.zomro.com,BanEasyPrivacy
 HOST-SUFFIX,o68c.sfr.fr,BanEasyPrivacy
 HOST-SUFFIX,o8.hyatt.com,BanEasyPrivacy
-HOST-SUFFIX,o9tt6h08li.execute-api.eu-west-1.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,oabnmx.jewelryexchange.com,BanEasyPrivacy
 HOST-SUFFIX,oae6.carrefour-banque.fr,BanEasyPrivacy
 HOST-SUFFIX,oahu.shakaguide.com,BanEasyPrivacy
@@ -22644,6 +22693,8 @@ HOST-SUFFIX,obqclg.dadway-onlineshop.com,BanEasyPrivacy
 HOST-SUFFIX,obqvss.debameubelen.be,BanEasyPrivacy
 HOST-SUFFIX,obrazy.dlabiznesu.pracuj.pl,BanEasyPrivacy
 HOST-SUFFIX,obrqts.hudforeclosed.com,BanEasyPrivacy
+HOST-SUFFIX,obs.jollyoutdoorjogger.com,BanEasyPrivacy
+HOST-SUFFIX,obs.system1onesource.com,BanEasyPrivacy
 HOST-SUFFIX,observe-nexus.pointandplace.com,BanEasyPrivacy
 HOST-SUFFIX,observe.metarouter.io,BanEasyPrivacy
 HOST-SUFFIX,observer.ip-label.net,BanEasyPrivacy
@@ -23237,6 +23288,7 @@ HOST-SUFFIX,p.gazeta.pl,BanEasyPrivacy
 HOST-SUFFIX,p.hentaiforce.net,BanEasyPrivacy
 HOST-SUFFIX,p.ianmjones.com,BanEasyPrivacy
 HOST-SUFFIX,p.iforge.app,BanEasyPrivacy
+HOST-SUFFIX,p.jmlp.app,BanEasyPrivacy
 HOST-SUFFIX,p.logbox.io,BanEasyPrivacy
 HOST-SUFFIX,p.marqueplace.com,BanEasyPrivacy
 HOST-SUFFIX,p.meilentrio.de,BanEasyPrivacy
@@ -23247,7 +23299,9 @@ HOST-SUFFIX,p.placed.com,BanEasyPrivacy
 HOST-SUFFIX,p.pmu.fr,BanEasyPrivacy
 HOST-SUFFIX,p.ryanhalliday.com,BanEasyPrivacy
 HOST-SUFFIX,p.skimresources.com,BanEasyPrivacy
+HOST-SUFFIX,p.spotidownloader.com,BanEasyPrivacy
 HOST-SUFFIX,p.tencentmind.com,BanEasyPrivacy
+HOST-SUFFIX,p.tryretool.com,BanEasyPrivacy
 HOST-SUFFIX,p.versacommerce.de,BanEasyPrivacy
 HOST-SUFFIX,p.victoria.dev,BanEasyPrivacy
 HOST-SUFFIX,p.viennaandbailey.co.nz,BanEasyPrivacy
@@ -23521,7 +23575,6 @@ HOST-SUFFIX,pgs.centreforaviation.com,BanEasyPrivacy
 HOST-SUFFIX,pgs.corporatetravelcommunity.com,BanEasyPrivacy
 HOST-SUFFIX,pgs.farmprogress.com,BanEasyPrivacy
 HOST-SUFFIX,pgt1.voyage-prive.es,BanEasyPrivacy
-HOST-SUFFIX,ph.thenextweb.com,BanEasyPrivacy
 HOST-SUFFIX,phadia.thermo.com,BanEasyPrivacy
 HOST-SUFFIX,phadia.thermofisher.com,BanEasyPrivacy
 HOST-SUFFIX,phbnix.rocelec.com,BanEasyPrivacy
@@ -23555,6 +23608,7 @@ HOST-SUFFIX,pimpoint.inriver.com,BanEasyPrivacy
 HOST-SUFFIX,pine.clk.click,BanEasyPrivacy
 HOST-SUFFIX,pine.nervecentral.com,BanEasyPrivacy
 HOST-SUFFIX,ping.dozuki.com,BanEasyPrivacy
+HOST-SUFFIX,ping.fastsimon.com,BanEasyPrivacy
 HOST-SUFFIX,ping.hashnode.com,BanEasyPrivacy
 HOST-SUFFIX,ping.hungama.com,BanEasyPrivacy
 HOST-SUFFIX,ping.naturadapt.com,BanEasyPrivacy
@@ -23571,6 +23625,7 @@ HOST-SUFFIX,pint-dev-branch.airship.com,BanEasyPrivacy
 HOST-SUFFIX,pionmj.companyshop24.de,BanEasyPrivacy
 HOST-SUFFIX,pipe-collect.ebu.io,BanEasyPrivacy
 HOST-SUFFIX,pipedream.wistia.com,BanEasyPrivacy
+HOST-SUFFIX,pipeline.nachtkastje.nl,BanEasyPrivacy
 HOST-SUFFIX,pipelinepub.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,piper.amocrm.ru,BanEasyPrivacy
 HOST-SUFFIX,pippio.com,BanEasyPrivacy
@@ -23630,6 +23685,7 @@ HOST-SUFFIX,pixel.mtrcs.samba.tv,BanEasyPrivacy
 HOST-SUFFIX,pixel.newscred.com,BanEasyPrivacy
 HOST-SUFFIX,pixel.nine.com.au,BanEasyPrivacy
 HOST-SUFFIX,pixel.poptok.com,BanEasyPrivacy
+HOST-SUFFIX,pixel.pub.lilyai.net,BanEasyPrivacy
 HOST-SUFFIX,pixel.redgifs.com,BanEasyPrivacy
 HOST-SUFFIX,pixel.roymorgan.com,BanEasyPrivacy
 HOST-SUFFIX,pixel.s3xified.com,BanEasyPrivacy
@@ -23645,6 +23701,7 @@ HOST-SUFFIX,pixel.yola.com,BanEasyPrivacy
 HOST-SUFFIX,pixel6.wp.pl,BanEasyPrivacy
 HOST-SUFFIX,pixels.afcdn.com,BanEasyPrivacy
 HOST-SUFFIX,pixels.boxberry.ru,BanEasyPrivacy
+HOST-SUFFIX,pixels.zalify.com,BanEasyPrivacy
 HOST-SUFFIX,pixelzirkus.gameforge.com,BanEasyPrivacy
 HOST-SUFFIX,pixiedust.buzzfeed.com,BanEasyPrivacy
 HOST-SUFFIX,pixmg.com,BanEasyPrivacy
@@ -23678,6 +23735,7 @@ HOST-SUFFIX,pl.astro-akatemia.fi,BanEasyPrivacy
 HOST-SUFFIX,pl.astro.fi,BanEasyPrivacy
 HOST-SUFFIX,pl.carbon-tab.ethan.link,BanEasyPrivacy
 HOST-SUFFIX,pl.codetheweb.blog,BanEasyPrivacy
+HOST-SUFFIX,pl.elements.video,BanEasyPrivacy
 HOST-SUFFIX,pl.ethan.link,BanEasyPrivacy
 HOST-SUFFIX,pl.fashmoms.com,BanEasyPrivacy
 HOST-SUFFIX,pl.getfamealy.com,BanEasyPrivacy
@@ -24015,7 +24073,6 @@ HOST-SUFFIX,prod.fennec.atp.fox,BanEasyPrivacy
 HOST-SUFFIX,prod.nitrosniffer.ottogroup.io,BanEasyPrivacy
 HOST-SUFFIX,prod.tracking.refinitiv.com,BanEasyPrivacy
 HOST-SUFFIX,proditor.sparda.de,BanEasyPrivacy
-HOST-SUFFIX,prodregistryv2.org,BanEasyPrivacy
 HOST-SUFFIX,product.cel-fi.com,BanEasyPrivacy
 HOST-SUFFIX,product.cloud.travelport.com,BanEasyPrivacy
 HOST-SUFFIX,production-link-ccontact.focuscura.com,BanEasyPrivacy
@@ -24306,6 +24363,7 @@ HOST-SUFFIX,qmtjvq.kuoni.ch,BanEasyPrivacy
 HOST-SUFFIX,qnbskk.oqvestir.com.br,BanEasyPrivacy
 HOST-SUFFIX,qnlbs2m0uoto.www.videoath.com,BanEasyPrivacy
 HOST-SUFFIX,qnqdpy.edreams.net,BanEasyPrivacy
+HOST-SUFFIX,qntm.pro,BanEasyPrivacy
 HOST-SUFFIX,qnuzwe.nomanwalksalone.com,BanEasyPrivacy
 HOST-SUFFIX,qnwkbv.bestsecret.nl,BanEasyPrivacy
 HOST-SUFFIX,qnzczf.idc-otsuka.jp,BanEasyPrivacy
@@ -24438,6 +24496,7 @@ HOST-SUFFIX,r2r.utas.edu.au,BanEasyPrivacy
 HOST-SUFFIX,r42tag.com,BanEasyPrivacy
 HOST-SUFFIX,r4nds.absorba.com,BanEasyPrivacy
 HOST-SUFFIX,raac33.net,BanEasyPrivacy
+HOST-SUFFIX,rabbit.donald.cat,BanEasyPrivacy
 HOST-SUFFIX,rac.ruutu.fi,BanEasyPrivacy
 HOST-SUFFIX,racemanager-app.sapsailing.com,BanEasyPrivacy
 HOST-SUFFIX,radar.imgsmail.ru,BanEasyPrivacy
@@ -24524,6 +24583,7 @@ HOST-SUFFIX,reaonq.xn--hdks770u8f0a8dvzft.net,BanEasyPrivacy
 HOST-SUFFIX,reauthenticator.com,BanEasyPrivacy
 HOST-SUFFIX,rec.banggood.com,BanEasyPrivacy
 HOST-SUFFIX,receive.wmcdp.io,BanEasyPrivacy
+HOST-SUFFIX,reco.target2sell.com,BanEasyPrivacy
 HOST-SUFFIX,recoverypoint.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,recruit.go.apprenticeshipcommunity.com.au,BanEasyPrivacy
 HOST-SUFFIX,recruiting.dukekunshan.edu.cn,BanEasyPrivacy
@@ -24889,6 +24949,7 @@ HOST-SUFFIX,ro.aiwan4399.com,BanEasyPrivacy
 HOST-SUFFIX,robotflowermobile.com,BanEasyPrivacy
 HOST-SUFFIX,rochelle.wantsext.me,BanEasyPrivacy
 HOST-SUFFIX,roedwy.imidapeptide.com,BanEasyPrivacy
+HOST-SUFFIX,roibest-report-sdk.qiliangjia.com,BanEasyPrivacy
 HOST-SUFFIX,roinjg.mkluzkoviny.cz,BanEasyPrivacy
 HOST-SUFFIX,roiscs.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,rollbar.actonservice.com,BanEasyPrivacy
@@ -24937,6 +24998,10 @@ HOST-SUFFIX,rsaard.en-tea.com,BanEasyPrivacy
 HOST-SUFFIX,rsc.lepoint.fr,BanEasyPrivacy
 HOST-SUFFIX,rsinqg.homelux.hu,BanEasyPrivacy
 HOST-SUFFIX,rsotku.mitsui-shopping-park.com,BanEasyPrivacy
+HOST-SUFFIX,rsra-ph.cdn-fileserver.com,BanEasyPrivacy
+HOST-SUFFIX,rsra.cdn-fileserver.com,BanEasyPrivacy
+HOST-SUFFIX,rsras-ph.cdn-fileserver.com,BanEasyPrivacy
+HOST-SUFFIX,rsras.cdn-fileserver.com,BanEasyPrivacy
 HOST-SUFFIX,rstat.rockmostbet.com,BanEasyPrivacy
 HOST-SUFFIX,rsuevw.unicef.or.jp,BanEasyPrivacy
 HOST-SUFFIX,rsv.dankore.jp,BanEasyPrivacy
@@ -24963,6 +25028,7 @@ HOST-SUFFIX,rtek-link.shares.social,BanEasyPrivacy
 HOST-SUFFIX,rtg-adroute.focas.jp,BanEasyPrivacy
 HOST-SUFFIX,rtgvwr.com,BanEasyPrivacy
 HOST-SUFFIX,rtm-tracking.zozo.jp,BanEasyPrivacy
+HOST-SUFFIX,rtmscl.com,BanEasyPrivacy
 HOST-SUFFIX,rtmugo.deindeal.ch,BanEasyPrivacy
 HOST-SUFFIX,rtneys.luuna.mx,BanEasyPrivacy
 HOST-SUFFIX,rtpmqv.smakon.jp,BanEasyPrivacy
@@ -24972,6 +25038,7 @@ HOST-SUFFIX,rtxlni.doclasse.com,BanEasyPrivacy
 HOST-SUFFIX,rtxpx-a.akamaihd.net,BanEasyPrivacy
 HOST-SUFFIX,ru-go.experian.com,BanEasyPrivacy
 HOST-SUFFIX,ru-ru.siemensplmevents.com,BanEasyPrivacy
+HOST-SUFFIX,rudder-tracking.rudderstack.com,BanEasyPrivacy
 HOST-SUFFIX,rugttt.robinson.com,BanEasyPrivacy
 HOST-SUFFIX,ruhpbn.zhigaojixie.com,BanEasyPrivacy
 HOST-SUFFIX,rum-ingress-coralogix.com,BanEasyPrivacy
@@ -25691,7 +25758,6 @@ HOST-SUFFIX,sanl.footlocker.se,BanEasyPrivacy
 HOST-SUFFIX,sanl.six02.com,BanEasyPrivacy
 HOST-SUFFIX,sanmet.originenergy.com.au,BanEasyPrivacy
 HOST-SUFFIX,sapi.tremendous.com,BanEasyPrivacy
-HOST-SUFFIX,sapphire-api.target.com,BanEasyPrivacy
 HOST-SUFFIX,sappmetrics.sprint.com,BanEasyPrivacy
 HOST-SUFFIX,sas.nsm-corp.com,BanEasyPrivacy
 HOST-SUFFIX,sasc.solidworks.com,BanEasyPrivacy
@@ -25844,6 +25910,7 @@ HOST-SUFFIX,scrippscookingchannel.cookingchanneltv.com,BanEasyPrivacy
 HOST-SUFFIX,scrippsfoodnetnew.foodnetwork.com,BanEasyPrivacy
 HOST-SUFFIX,scrippshgtvnew.hgtv.com,BanEasyPrivacy
 HOST-SUFFIX,script.ac,BanEasyPrivacy
+HOST-SUFFIX,scripts.dadata.com.br,BanEasyPrivacy
 HOST-SUFFIX,scripts.psyma.com,BanEasyPrivacy
 HOST-SUFFIX,scs.allsecur.nl,BanEasyPrivacy
 HOST-SUFFIX,scs.arcteryx.com,BanEasyPrivacy
@@ -26062,7 +26129,6 @@ HOST-SUFFIX,secure.imaginativeenterprising-intelligent.com,BanEasyPrivacy
 HOST-SUFFIX,secure.immixgroup.com,BanEasyPrivacy
 HOST-SUFFIX,secure.info.awlgrip.com,BanEasyPrivacy
 HOST-SUFFIX,secure.info.domo.com,BanEasyPrivacy
-HOST-SUFFIX,secure.info.m.seek.co.nz,BanEasyPrivacy
 HOST-SUFFIX,secure.info.zetes.com,BanEasyPrivacy
 HOST-SUFFIX,secure.informationcreativeinnovative.com,BanEasyPrivacy
 HOST-SUFFIX,secure.innovation-perceptive52.com,BanEasyPrivacy
@@ -26430,6 +26496,7 @@ HOST-SUFFIX,seek.intel.com,BanEasyPrivacy
 HOST-SUFFIX,seek.uwa.edu.au,BanEasyPrivacy
 HOST-SUFFIX,sefkal.openapp.link,BanEasyPrivacy
 HOST-SUFFIX,segment-api.inrix.com,BanEasyPrivacy
+HOST-SUFFIX,segment.lalr.co,BanEasyPrivacy
 HOST-SUFFIX,segmentor.snowfox-ai.com,BanEasyPrivacy
 HOST-SUFFIX,segra.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,sejdfu.coeur.de,BanEasyPrivacy
@@ -26724,6 +26791,7 @@ HOST-SUFFIX,sharedev.passportpower.app,BanEasyPrivacy
 HOST-SUFFIX,sharelink.oppvenuz.com,BanEasyPrivacy
 HOST-SUFFIX,sharen.oyorooms.com,BanEasyPrivacy
 HOST-SUFFIX,sharing.kptncook.com,BanEasyPrivacy
+HOST-SUFFIX,shdid.me,BanEasyPrivacy
 HOST-SUFFIX,sheeta.nrj-play.fr,BanEasyPrivacy
 HOST-SUFFIX,shelbypublishing.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,shell-recharge.tupinambaenergia.com.br,BanEasyPrivacy
@@ -29671,6 +29739,7 @@ HOST-SUFFIX,smetrics.utech-polyurethane.com,BanEasyPrivacy
 HOST-SUFFIX,smetrics.utilityanalyticsweek.com,BanEasyPrivacy
 HOST-SUFFIX,smetrics.valumart.ca,BanEasyPrivacy
 HOST-SUFFIX,smetrics.vangraaf.com,BanEasyPrivacy
+HOST-SUFFIX,smetrics.vanguard.com,BanEasyPrivacy
 HOST-SUFFIX,smetrics.vans.co.nz,BanEasyPrivacy
 HOST-SUFFIX,smetrics.vans.com.au,BanEasyPrivacy
 HOST-SUFFIX,smetrics.variis.com,BanEasyPrivacy
@@ -30391,6 +30460,7 @@ HOST-SUFFIX,spjysa.only.com,BanEasyPrivacy
 HOST-SUFFIX,splitexpenses.oworld.fr,BanEasyPrivacy
 HOST-SUFFIX,spmaeu.gumtree.com.au,BanEasyPrivacy
 HOST-SUFFIX,spmyma.moscowfresh.ru,BanEasyPrivacy
+HOST-SUFFIX,spotlersearchanalytics.com,BanEasyPrivacy
 HOST-SUFFIX,spread.epoolers.com,BanEasyPrivacy
 HOST-SUFFIX,springboard.aon.com,BanEasyPrivacy
 HOST-SUFFIX,sprtnd.com,BanEasyPrivacy
@@ -30405,6 +30475,7 @@ HOST-SUFFIX,sqtivj.vidaxl.hr,BanEasyPrivacy
 HOST-SUFFIX,squirrel.cividi.ch,BanEasyPrivacy
 HOST-SUFFIX,squirrel.malaynahocker.com,BanEasyPrivacy
 HOST-SUFFIX,sr59t7wbx5.claricelin.com,BanEasyPrivacy
+HOST-SUFFIX,sra-px.cdn-fileserver.com,BanEasyPrivacy
 HOST-SUFFIX,src.freshmarketer.in,BanEasyPrivacy
 HOST-SUFFIX,srd1-pdx.net.jumia.ci,BanEasyPrivacy
 HOST-SUFFIX,srepdata.12newsnow.com,BanEasyPrivacy
@@ -30780,6 +30851,7 @@ HOST-SUFFIX,sspkbf.ragtag.jp,BanEasyPrivacy
 HOST-SUFFIX,ssr.streamrail.net,BanEasyPrivacy
 HOST-SUFFIX,ssrlot.lotoquebec.com,BanEasyPrivacy
 HOST-SUFFIX,sst.babypark.nl,BanEasyPrivacy
+HOST-SUFFIX,sst.bwt.com,BanEasyPrivacy
 HOST-SUFFIX,sst.colemanfurniture.com,BanEasyPrivacy
 HOST-SUFFIX,sst.cooperativa.cl,BanEasyPrivacy
 HOST-SUFFIX,sst.shopware.com,BanEasyPrivacy
@@ -30794,7 +30866,6 @@ HOST-SUFFIX,sstat.outrigger.com,BanEasyPrivacy
 HOST-SUFFIX,sstat.spreadex.com,BanEasyPrivacy
 HOST-SUFFIX,sstatistikk.telenor.no,BanEasyPrivacy
 HOST-SUFFIX,sstats.aavacations.com,BanEasyPrivacy
-HOST-SUFFIX,sstats.adobe.com,BanEasyPrivacy
 HOST-SUFFIX,sstats.adultswim.com,BanEasyPrivacy
 HOST-SUFFIX,sstats.afco.com,BanEasyPrivacy
 HOST-SUFFIX,sstats.airfarewatchdog.co.uk,BanEasyPrivacy
@@ -30815,7 +30886,6 @@ HOST-SUFFIX,sstats.backcountry.com,BanEasyPrivacy
 HOST-SUFFIX,sstats.bbt.com,BanEasyPrivacy
 HOST-SUFFIX,sstats.belgiantrain.be,BanEasyPrivacy
 HOST-SUFFIX,sstats.bever.nl,BanEasyPrivacy
-HOST-SUFFIX,sstats.bitdefender.com,BanEasyPrivacy
 HOST-SUFFIX,sstats.bnpparibasfortis.be,BanEasyPrivacy
 HOST-SUFFIX,sstats.bonappetit.com,BanEasyPrivacy
 HOST-SUFFIX,sstats.bookhostels.com,BanEasyPrivacy
@@ -31018,6 +31088,7 @@ HOST-SUFFIX,sstats2.golfdigest.com,BanEasyPrivacy
 HOST-SUFFIX,sstats2.gq.com,BanEasyPrivacy
 HOST-SUFFIX,sstats2.newyorker.com,BanEasyPrivacy
 HOST-SUFFIX,sstatstest.adobe.com,BanEasyPrivacy
+HOST-SUFFIX,sstm.sport2000.fr,BanEasyPrivacy
 HOST-SUFFIX,ssuork.sixt.at,BanEasyPrivacy
 HOST-SUFFIX,ssuperstats.observepoint.com,BanEasyPrivacy
 HOST-SUFFIX,ssushe.kennethcole.com,BanEasyPrivacy
@@ -31616,6 +31687,7 @@ HOST-SUFFIX,stats.hayu.com,BanEasyPrivacy
 HOST-SUFFIX,stats.headhunted.com.au,BanEasyPrivacy
 HOST-SUFFIX,stats.healthydirections.com,BanEasyPrivacy
 HOST-SUFFIX,stats.henkverlinde.com,BanEasyPrivacy
+HOST-SUFFIX,stats.hexa.watch,BanEasyPrivacy
 HOST-SUFFIX,stats.heyoya.com,BanEasyPrivacy
 HOST-SUFFIX,stats.his-j.com,BanEasyPrivacy
 HOST-SUFFIX,stats.homepage-2021.askmiso-dev.com,BanEasyPrivacy
@@ -31638,6 +31710,7 @@ HOST-SUFFIX,stats.igor4stir.com,BanEasyPrivacy
 HOST-SUFFIX,stats.in-tuition.net,BanEasyPrivacy
 HOST-SUFFIX,stats.incoming.co,BanEasyPrivacy
 HOST-SUFFIX,stats.increasinglyfunctional.com,BanEasyPrivacy
+HOST-SUFFIX,stats.indianpornempire.com,BanEasyPrivacy
 HOST-SUFFIX,stats.indyhall.org,BanEasyPrivacy
 HOST-SUFFIX,stats.inergizedigitalmedia.com,BanEasyPrivacy
 HOST-SUFFIX,stats.infoboard.de,BanEasyPrivacy
@@ -31655,6 +31728,7 @@ HOST-SUFFIX,stats.ipmgroup.be,BanEasyPrivacy
 HOST-SUFFIX,stats.isabelsommerfeld.com,BanEasyPrivacy
 HOST-SUFFIX,stats.iscc-system.org,BanEasyPrivacy
 HOST-SUFFIX,stats.isthispoisonivy.website,BanEasyPrivacy
+HOST-SUFFIX,stats.itc.ua,BanEasyPrivacy
 HOST-SUFFIX,stats.itsol.it,BanEasyPrivacy
 HOST-SUFFIX,stats.itweb.co.za,BanEasyPrivacy
 HOST-SUFFIX,stats.ivs.rocks,BanEasyPrivacy
@@ -31842,6 +31916,7 @@ HOST-SUFFIX,stats.photographer.com.au,BanEasyPrivacy
 HOST-SUFFIX,stats.pinoymusicstation.com,BanEasyPrivacy
 HOST-SUFFIX,stats.piplette.co,BanEasyPrivacy
 HOST-SUFFIX,stats.pitstone.co.uk,BanEasyPrivacy
+HOST-SUFFIX,stats.pixeldrain.com,BanEasyPrivacy
 HOST-SUFFIX,stats.plainsending.com,BanEasyPrivacy
 HOST-SUFFIX,stats.planxti.com,BanEasyPrivacy
 HOST-SUFFIX,stats.poesieundgenuss.com,BanEasyPrivacy
@@ -31935,6 +32010,7 @@ HOST-SUFFIX,stats.sebastiandombrowski.de,BanEasyPrivacy
 HOST-SUFFIX,stats.sebastiangale.ca,BanEasyPrivacy
 HOST-SUFFIX,stats.sec.telefonica.com,BanEasyPrivacy
 HOST-SUFFIX,stats.selectam.io,BanEasyPrivacy
+HOST-SUFFIX,stats.sender.net,BanEasyPrivacy
 HOST-SUFFIX,stats.sendngnt.com,BanEasyPrivacy
 HOST-SUFFIX,stats.senty.com.au,BanEasyPrivacy
 HOST-SUFFIX,stats.servicedesignjobs.com,BanEasyPrivacy
@@ -31967,6 +32043,7 @@ HOST-SUFFIX,stats.southswindon-pc.gov.uk,BanEasyPrivacy
 HOST-SUFFIX,stats.spark.co.nz,BanEasyPrivacy
 HOST-SUFFIX,stats.sparkloop.app,BanEasyPrivacy
 HOST-SUFFIX,stats.splinder.com,BanEasyPrivacy
+HOST-SUFFIX,stats.spreadsimple.com,BanEasyPrivacy
 HOST-SUFFIX,stats.spreadtheworld.net,BanEasyPrivacy
 HOST-SUFFIX,stats.sprune.com,BanEasyPrivacy
 HOST-SUFFIX,stats.sqlteam.com,BanEasyPrivacy
@@ -31981,7 +32058,6 @@ HOST-SUFFIX,stats.streamhub.io,BanEasyPrivacy
 HOST-SUFFIX,stats.studypages.com,BanEasyPrivacy
 HOST-SUFFIX,stats.stylight.it,BanEasyPrivacy
 HOST-SUFFIX,stats.sublimesecurity.com,BanEasyPrivacy
-HOST-SUFFIX,stats.suedtirolerjobs.it,BanEasyPrivacy
 HOST-SUFFIX,stats.suenicholls.com,BanEasyPrivacy
 HOST-SUFFIX,stats.sumikai.com,BanEasyPrivacy
 HOST-SUFFIX,stats.suniboy.com,BanEasyPrivacy
@@ -32066,6 +32142,7 @@ HOST-SUFFIX,stats.vdsnow.ru,BanEasyPrivacy
 HOST-SUFFIX,stats.vican.me,BanEasyPrivacy
 HOST-SUFFIX,stats.vidbinge.com,BanEasyPrivacy
 HOST-SUFFIX,stats.viddler.com,BanEasyPrivacy
+HOST-SUFFIX,stats.videasy.net,BanEasyPrivacy
 HOST-SUFFIX,stats.vidyome.com,BanEasyPrivacy
 HOST-SUFFIX,stats.visions.ch,BanEasyPrivacy
 HOST-SUFFIX,stats.vk-portal.net,BanEasyPrivacy
@@ -32092,7 +32169,6 @@ HOST-SUFFIX,stats.wisconsingenomics.org,BanEasyPrivacy
 HOST-SUFFIX,stats.wordpress.com,BanEasyPrivacy
 HOST-SUFFIX,stats.wordvested.org,BanEasyPrivacy
 HOST-SUFFIX,stats.world.hey.com,BanEasyPrivacy
-HOST-SUFFIX,stats.wp.com,BanEasyPrivacy
 HOST-SUFFIX,stats.wpmucdn.com,BanEasyPrivacy
 HOST-SUFFIX,stats.wvs.org.uk,BanEasyPrivacy
 HOST-SUFFIX,stats.wvsindia.org,BanEasyPrivacy
@@ -32280,6 +32356,7 @@ HOST-SUFFIX,studio.joinsalut.com,BanEasyPrivacy
 HOST-SUFFIX,study.jcu.edu.au,BanEasyPrivacy
 HOST-SUFFIX,study.vu.edu.au,BanEasyPrivacy
 HOST-SUFFIX,sturton-lation.com,BanEasyPrivacy
+HOST-SUFFIX,stw.extrem-down.zone,BanEasyPrivacy
 HOST-SUFFIX,styles.hautelook.com,BanEasyPrivacy
 HOST-SUFFIX,su1.les-suites.ca,BanEasyPrivacy
 HOST-SUFFIX,sub.booksdream-mypage.com,BanEasyPrivacy
@@ -32643,6 +32720,7 @@ HOST-SUFFIX,t.91syun.com,BanEasyPrivacy
 HOST-SUFFIX,t.9gag.com,BanEasyPrivacy
 HOST-SUFFIX,t.a3cloud.net,BanEasyPrivacy
 HOST-SUFFIX,t.actemra.com,BanEasyPrivacy
+HOST-SUFFIX,t.adclr.jp,BanEasyPrivacy
 HOST-SUFFIX,t.adlpo.com,BanEasyPrivacy
 HOST-SUFFIX,t.adx.opera.com,BanEasyPrivacy
 HOST-SUFFIX,t.afry.com,BanEasyPrivacy
@@ -32736,6 +32814,7 @@ HOST-SUFFIX,t.cometlytrack.com,BanEasyPrivacy
 HOST-SUFFIX,t.commandbar.com,BanEasyPrivacy
 HOST-SUFFIX,t.comms.thetimes.co.uk,BanEasyPrivacy
 HOST-SUFFIX,t.cozone.com,BanEasyPrivacy
+HOST-SUFFIX,t.cpurls.net,BanEasyPrivacy
 HOST-SUFFIX,t.csurams.com,BanEasyPrivacy
 HOST-SUFFIX,t.cubuffs.com,BanEasyPrivacy
 HOST-SUFFIX,t.dailymail.co.uk,BanEasyPrivacy
@@ -32883,6 +32962,7 @@ HOST-SUFFIX,t.ohiobobcats.com,BanEasyPrivacy
 HOST-SUFFIX,t.okcciviccenter.com,BanEasyPrivacy
 HOST-SUFFIX,t.okstate.com,BanEasyPrivacy
 HOST-SUFFIX,t.olemisssports.com,BanEasyPrivacy
+HOST-SUFFIX,t.optiwizehealth.com,BanEasyPrivacy
 HOST-SUFFIX,t.oralia.fr,BanEasyPrivacy
 HOST-SUFFIX,t.orion.fi,BanEasyPrivacy
 HOST-SUFFIX,t.osubeavers.com,BanEasyPrivacy
@@ -33043,6 +33123,7 @@ HOST-SUFFIX,tag.rmp.rakuten.com,BanEasyPrivacy
 HOST-SUFFIX,tag.shopping-feed.com,BanEasyPrivacy
 HOST-SUFFIX,tag.statshop.fr,BanEasyPrivacy
 HOST-SUFFIX,tag.triboomedia.it,BanEasyPrivacy
+HOST-SUFFIX,tag.unifyintent.com,BanEasyPrivacy
 HOST-SUFFIX,tag.weezmo.com,BanEasyPrivacy
 HOST-SUFFIX,tagcommander.laredoute.be,BanEasyPrivacy
 HOST-SUFFIX,tagcommander.laredoute.ch,BanEasyPrivacy
@@ -33075,6 +33156,7 @@ HOST-SUFFIX,tags.op-palvelut.fi,BanEasyPrivacy
 HOST-SUFFIX,tags.pw.adn.cloud,BanEasyPrivacy
 HOST-SUFFIX,tags.soloway.ru,BanEasyPrivacy
 HOST-SUFFIX,tags.stepstone.com,BanEasyPrivacy
+HOST-SUFFIX,tagservice.maximus.mobkoi.com,BanEasyPrivacy
 HOST-SUFFIX,tagtracking.vibescm.com,BanEasyPrivacy
 HOST-SUFFIX,takigx.tourneau.com,BanEasyPrivacy
 HOST-SUFFIX,takingbackjuly.com,BanEasyPrivacy
@@ -33363,6 +33445,7 @@ HOST-SUFFIX,tck.photobox.com,BanEasyPrivacy
 HOST-SUFFIX,tck.wonderbox.fr,BanEasyPrivacy
 HOST-SUFFIX,tczulp.econea.cz,BanEasyPrivacy
 HOST-SUFFIX,td.airdroid.com,BanEasyPrivacy
+HOST-SUFFIX,td.doubleclick.net,BanEasyPrivacy
 HOST-SUFFIX,td.emails.domain.com.au,BanEasyPrivacy
 HOST-SUFFIX,tdaqzz.graviditetskollen.nu,BanEasyPrivacy
 HOST-SUFFIX,tdbnom.madeleine.de,BanEasyPrivacy
@@ -33466,6 +33549,7 @@ HOST-SUFFIX,telemetry.canva.com,BanEasyPrivacy
 HOST-SUFFIX,telemetry.chrobinson.com,BanEasyPrivacy
 HOST-SUFFIX,telemetry.commonspirit.org,BanEasyPrivacy
 HOST-SUFFIX,telemetry.dematic.com,BanEasyPrivacy
+HOST-SUFFIX,telemetry.dzen.ru,BanEasyPrivacy
 HOST-SUFFIX,telemetry.firez.one,BanEasyPrivacy
 HOST-SUFFIX,telemetry.goodlifefitness.com,BanEasyPrivacy
 HOST-SUFFIX,telemetry.jivosite.com,BanEasyPrivacy
@@ -33474,6 +33558,7 @@ HOST-SUFFIX,telemetry.moveworks.com,BanEasyPrivacy
 HOST-SUFFIX,telemetry.navispherecarrier.com,BanEasyPrivacy
 HOST-SUFFIX,telemetry.owenscorning.com,BanEasyPrivacy
 HOST-SUFFIX,telemetry.phenixrts.com,BanEasyPrivacy
+HOST-SUFFIX,telemetry.proton.me,BanEasyPrivacy
 HOST-SUFFIX,telemetry.reembed.com,BanEasyPrivacy
 HOST-SUFFIX,telemetry.ruthschris.com,BanEasyPrivacy
 HOST-SUFFIX,telemetry.sdk.inmobi.com,BanEasyPrivacy
@@ -33662,10 +33747,12 @@ HOST-SUFFIX,tiktok.tray.com.br,BanEasyPrivacy
 HOST-SUFFIX,tilanalytics.timesinternet.in,BanEasyPrivacy
 HOST-SUFFIX,tilt.bankofamerica.com,BanEasyPrivacy
 HOST-SUFFIX,tim.nextinpact.com,BanEasyPrivacy
+HOST-SUFFIX,time.aktion-mensch.de,BanEasyPrivacy
 HOST-SUFFIX,timeclock.mytoolr.com,BanEasyPrivacy
 HOST-SUFFIX,timejs.game.163.com,BanEasyPrivacy
 HOST-SUFFIX,timing.uhrforum.de,BanEasyPrivacy
 HOST-SUFFIX,timing.whenandhowagency.com,BanEasyPrivacy
+HOST-SUFFIX,timit.mno.link,BanEasyPrivacy
 HOST-SUFFIX,tioztp.unisportstore.nl,BanEasyPrivacy
 HOST-SUFFIX,tippcom01.tipp24.com,BanEasyPrivacy
 HOST-SUFFIX,tipstats.onepagelove.com,BanEasyPrivacy
@@ -34131,6 +34218,7 @@ HOST-SUFFIX,tr.bodet.devisdirect.com,BanEasyPrivacy
 HOST-SUFFIX,tr.boletim.companeo.pt,BanEasyPrivacy
 HOST-SUFFIX,tr.boletim.meu-orcamento.pt,BanEasyPrivacy
 HOST-SUFFIX,tr.bouyguestelecom.espmp-aufr.net,BanEasyPrivacy
+HOST-SUFFIX,tr.brand-fresh.it,BanEasyPrivacy
 HOST-SUFFIX,tr.brand.labelleadresse.com,BanEasyPrivacy
 HOST-SUFFIX,tr.bt.matrixspa.it,BanEasyPrivacy
 HOST-SUFFIX,tr.btob-afaceri.ro,BanEasyPrivacy
@@ -35145,6 +35233,7 @@ HOST-SUFFIX,tr5.mperf.com,BanEasyPrivacy
 HOST-SUFFIX,tr6.mperf.com,BanEasyPrivacy
 HOST-SUFFIX,trac.roomster.com,BanEasyPrivacy
 HOST-SUFFIX,traccoon.intellectsoft.net,BanEasyPrivacy
+HOST-SUFFIX,trace.bluemonkey.jp,BanEasyPrivacy
 HOST-SUFFIX,trace.insead.edu,BanEasyPrivacy
 HOST-SUFFIX,trace.qq.com,BanEasyPrivacy
 HOST-SUFFIX,trace.swaven.com,BanEasyPrivacy
@@ -35372,6 +35461,7 @@ HOST-SUFFIX,tracker-dot-optimeeze.appspot.com,BanEasyPrivacy
 HOST-SUFFIX,tracker-rec.smart-bdash.com,BanEasyPrivacy
 HOST-SUFFIX,tracker-server.high-cdn.com,BanEasyPrivacy
 HOST-SUFFIX,tracker-v4.gamedock.io,BanEasyPrivacy
+HOST-SUFFIX,tracker.3dissue.com,BanEasyPrivacy
 HOST-SUFFIX,tracker.520call.me,BanEasyPrivacy
 HOST-SUFFIX,tracker.adbinead.com,BanEasyPrivacy
 HOST-SUFFIX,tracker.affiliate.iqbroker.com,BanEasyPrivacy
@@ -35420,6 +35510,7 @@ HOST-SUFFIX,tracker.myyschool.xyz,BanEasyPrivacy
 HOST-SUFFIX,tracker.nbcuas.com,BanEasyPrivacy
 HOST-SUFFIX,tracker.nitropay.com,BanEasyPrivacy
 HOST-SUFFIX,tracker.nocodelytics.com,BanEasyPrivacy
+HOST-SUFFIX,tracker.oval.id,BanEasyPrivacy
 HOST-SUFFIX,tracker.personizely.net,BanEasyPrivacy
 HOST-SUFFIX,tracker.prod.ams3.k8s.hyperia.sk,BanEasyPrivacy
 HOST-SUFFIX,tracker.prom.ua,BanEasyPrivacy
@@ -35853,6 +35944,7 @@ HOST-SUFFIX,tracking.ntl.no,BanEasyPrivacy
 HOST-SUFFIX,tracking.nymphomaneladies.de,BanEasyPrivacy
 HOST-SUFFIX,tracking.ocr.ca,BanEasyPrivacy
 HOST-SUFFIX,tracking.oe24.at,BanEasyPrivacy
+HOST-SUFFIX,tracking.offerista.com,BanEasyPrivacy
 HOST-SUFFIX,tracking.ohiohealth.com,BanEasyPrivacy
 HOST-SUFFIX,tracking.oldnational.com,BanEasyPrivacy
 HOST-SUFFIX,tracking.olx-st.com,BanEasyPrivacy
@@ -36036,6 +36128,7 @@ HOST-SUFFIX,tracking.umms.org,BanEasyPrivacy
 HOST-SUFFIX,tracking.unisabana.edu.co,BanEasyPrivacy
 HOST-SUFFIX,tracking.univtec.com,BanEasyPrivacy
 HOST-SUFFIX,tracking.unrealengine.com,BanEasyPrivacy
+HOST-SUFFIX,tracking.upfluence.co,BanEasyPrivacy
 HOST-SUFFIX,tracking.usj.es,BanEasyPrivacy
 HOST-SUFFIX,tracking.utas.edu.au,BanEasyPrivacy
 HOST-SUFFIX,tracking.ventingdirect.com,BanEasyPrivacy
@@ -36138,7 +36231,6 @@ HOST-SUFFIX,traffic.prod.cobaltgroup.com,BanEasyPrivacy
 HOST-SUFFIX,traffic.shareaholic.com,BanEasyPrivacy
 HOST-SUFFIX,traffic.taktikal.is,BanEasyPrivacy
 HOST-SUFFIX,traffic.wdc.center,BanEasyPrivacy
-HOST-SUFFIX,trafficfuelpixel.s3-us-west-2.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,trail-001.schleich-s.com,BanEasyPrivacy
 HOST-SUFFIX,trail.53kf.com,BanEasyPrivacy
 HOST-SUFFIX,trail.71baomu.com,BanEasyPrivacy
@@ -36630,6 +36722,7 @@ HOST-SUFFIX,tshuxi.bbqguys.com,BanEasyPrivacy
 HOST-SUFFIX,tsj0.madeindesign.com,BanEasyPrivacy
 HOST-SUFFIX,tsliat.medme.pl,BanEasyPrivacy
 HOST-SUFFIX,tsp.onjoyri.de,BanEasyPrivacy
+HOST-SUFFIX,tss.sport2000.fr,BanEasyPrivacy
 HOST-SUFFIX,tst-link-ccontact.focuscura.com,BanEasyPrivacy
 HOST-SUFFIX,tswafl.lascana.nl,BanEasyPrivacy
 HOST-SUFFIX,tt.natwest.com,BanEasyPrivacy
@@ -36706,9 +36799,9 @@ HOST-SUFFIX,tytpdz.climamarket.it,BanEasyPrivacy
 HOST-SUFFIX,tyumen.net.anwalt.de,BanEasyPrivacy
 HOST-SUFFIX,tyvuwf.lameteoagricole.net,BanEasyPrivacy
 HOST-SUFFIX,tzgurwizule3.app.cardahealth.com,BanEasyPrivacy
-HOST-SUFFIX,tzm.px-cloud.net,BanEasyPrivacy
 HOST-SUFFIX,tzovkp.aboutyou.at,BanEasyPrivacy
 HOST-SUFFIX,u-test.getgoose.com,BanEasyPrivacy
+HOST-SUFFIX,u.20minutes.fr,BanEasyPrivacy
 HOST-SUFFIX,u.20mn.it,BanEasyPrivacy
 HOST-SUFFIX,u.audi-pureprotection.com,BanEasyPrivacy
 HOST-SUFFIX,u.fordprotectplans.com,BanEasyPrivacy
@@ -36717,7 +36810,7 @@ HOST-SUFFIX,u.landing.ni.com,BanEasyPrivacy
 HOST-SUFFIX,u.salony.com,BanEasyPrivacy
 HOST-SUFFIX,u0crsrah75fy.camberlion.com,BanEasyPrivacy
 HOST-SUFFIX,u299.libelle-lekker.be,BanEasyPrivacy
-HOST-SUFFIX,u47.pnc.com,BanEasyPrivacy
+HOST-SUFFIX,u46.pnc.com,BanEasyPrivacy
 HOST-SUFFIX,u652.myplainview.com,BanEasyPrivacy
 HOST-SUFFIX,u927.sfgate.com,BanEasyPrivacy
 HOST-SUFFIX,ua.indianexpress.com,BanEasyPrivacy
@@ -36762,6 +36855,7 @@ HOST-SUFFIX,ucmetrics.unicredit.it,BanEasyPrivacy
 HOST-SUFFIX,ucmetrics.unicreditbanca.it,BanEasyPrivacy
 HOST-SUFFIX,ucmetrics.unicreditgroup.eu,BanEasyPrivacy
 HOST-SUFFIX,ucppeo.silux.hr,BanEasyPrivacy
+HOST-SUFFIX,uct.service.usercentrics.eu,BanEasyPrivacy
 HOST-SUFFIX,udblog.huya.com,BanEasyPrivacy
 HOST-SUFFIX,udgrbq.malwarebytes.com,BanEasyPrivacy
 HOST-SUFFIX,udicje.perrys.co.uk,BanEasyPrivacy
@@ -36854,7 +36948,10 @@ HOST-SUFFIX,ulutlv.esprit.fr,BanEasyPrivacy
 HOST-SUFFIX,um.contentstudio.io,BanEasyPrivacy
 HOST-SUFFIX,umami.aigenerations.net,BanEasyPrivacy
 HOST-SUFFIX,umami.askrella.de,BanEasyPrivacy
+HOST-SUFFIX,umami.flixer.su,BanEasyPrivacy
 HOST-SUFFIX,umami.heroku.uk,BanEasyPrivacy
+HOST-SUFFIX,umami.spencerdevs.xyz,BanEasyPrivacy
+HOST-SUFFIX,umami.vidfast.pro,BanEasyPrivacy
 HOST-SUFFIX,umami.wakarimasen.moe,BanEasyPrivacy
 HOST-SUFFIX,umazvs.raybiotech.com,BanEasyPrivacy
 HOST-SUFFIX,umdlbn.globetrotter.de,BanEasyPrivacy
@@ -36906,6 +37003,7 @@ HOST-SUFFIX,upload.euleriancdn.net,BanEasyPrivacy
 HOST-SUFFIX,uppbrl.thomassabo.com,BanEasyPrivacy
 HOST-SUFFIX,upqmpu.leasingtime.de,BanEasyPrivacy
 HOST-SUFFIX,upstats.yadro.ru,BanEasyPrivacy
+HOST-SUFFIX,uptime.fastrr.com,BanEasyPrivacy
 HOST-SUFFIX,uptvmovies.uptv.com,BanEasyPrivacy
 HOST-SUFFIX,upwkcv.vidaxl.ro,BanEasyPrivacy
 HOST-SUFFIX,upwwgd.zentempel.com,BanEasyPrivacy
@@ -36969,6 +37067,7 @@ HOST-SUFFIX,us.noteapi.micloud.xiaomi.net.iberostar.com,BanEasyPrivacy
 HOST-SUFFIX,us.onkyo.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,us.pdc.micloud.xiaomi.net.iberostar.com,BanEasyPrivacy
 HOST-SUFFIX,us.ricoh-usa.com,BanEasyPrivacy
+HOST-SUFFIX,usage.centsdonations.com,BanEasyPrivacy
 HOST-SUFFIX,usaoptimizedby.increasingly.co,BanEasyPrivacy
 HOST-SUFFIX,usaprogrip.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,usb-vna.coppermountaintech.com,BanEasyPrivacy
@@ -36985,6 +37084,7 @@ HOST-SUFFIX,usmetric.rediff.com,BanEasyPrivacy
 HOST-SUFFIX,usnvuj.skillfactory.ru,BanEasyPrivacy
 HOST-SUFFIX,usr.interactiveone.com,BanEasyPrivacy
 HOST-SUFFIX,usrkrz.zdravcity.ru,BanEasyPrivacy
+HOST-SUFFIX,usrpubtrk.com,BanEasyPrivacy
 HOST-SUFFIX,ussco-dev.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,ussolutions.equifax.com,BanEasyPrivacy
 HOST-SUFFIX,ustat.info,BanEasyPrivacy
@@ -37000,7 +37100,6 @@ HOST-SUFFIX,utapbu.cykelkraft.se,BanEasyPrivacy
 HOST-SUFFIX,utexas.actonservice.com,BanEasyPrivacy
 HOST-SUFFIX,utgckq.reductionrevolution.com.au,BanEasyPrivacy
 HOST-SUFFIX,utics.nodejibi.in,BanEasyPrivacy
-HOST-SUFFIX,utiq-aws.net,BanEasyPrivacy
 HOST-SUFFIX,utiq-test.utest1.work,BanEasyPrivacy
 HOST-SUFFIX,utiq-test.utest3.work,BanEasyPrivacy
 HOST-SUFFIX,utiq.11freunde.de,BanEasyPrivacy
@@ -37017,8 +37116,11 @@ HOST-SUFFIX,utiq.3djuegospc.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.750g.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.abc.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.actu.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.actu.net,BanEasyPrivacy
 HOST-SUFFIX,utiq.aisnenouvelle.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.allocine.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.annalect.es,BanEasyPrivacy
+HOST-SUFFIX,utiq.apotheken-umschau.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.applesfera.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.ariva.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.arquitecturaydiseno.es,BanEasyPrivacy
@@ -37036,6 +37138,8 @@ HOST-SUFFIX,utiq.bibamagazine.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.bild.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.bitban.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.blogthinkbig.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.brand-demo.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.brokser-heiratsmarkt.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.buffed.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.bunte.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.burgosconecta.es,BanEasyPrivacy
@@ -37043,28 +37147,32 @@ HOST-SUFFIX,utiq.buzzfeed.at,BanEasyPrivacy
 HOST-SUFFIX,utiq.buzzfeed.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.bw24.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.bz-berlin.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.c7c12669-b77b-4cff-8b74-0aceec09c0c7.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.caminteresse.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.canarias7.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.capital.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.caradisiac.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.centrepresseaveyron.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.cesoirtv.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.charentelibre.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.chartsinfrance.net,BanEasyPrivacy
 HOST-SUFFIX,utiq.cheriefm.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.chip.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.clara.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.closermag.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.cnetfrance.fr,BanEasyPrivacy
-HOST-SUFFIX,utiq.cocinatis.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.codebuild.ovh,BanEasyPrivacy
 HOST-SUFFIX,utiq.come-on.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.compradiccion.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.computerbild.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.computerfrage.net,BanEasyPrivacy
+HOST-SUFFIX,utiq.comunidadmsm.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.courrier-picard.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.cuerpomente.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.cuisineactuelle.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.dacia.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.dasgelbeblatt.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.derwesten.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.desired.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.diaridegirona.cat,BanEasyPrivacy
 HOST-SUFFIX,utiq.diariocordoba.com,BanEasyPrivacy
@@ -37076,13 +37184,17 @@ HOST-SUFFIX,utiq.diariosur.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.diariovasco.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.directoalpaladar.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.diverto.tv,BanEasyPrivacy
+HOST-SUFFIX,utiq.doctissimo.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.donaukurier.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.duden.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.dzfoot.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.easyvoyage.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.eatbetter.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.einbuergerungstest-online.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.einbuergerungstest-online.eu,BanEasyPrivacy
 HOST-SUFFIX,utiq.einfach-tasty.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.einfachkochen.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.einfachschoen.me,BanEasyPrivacy
 HOST-SUFFIX,utiq.elcomercio.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.elcorreo.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.elcorreogallego.es,BanEasyPrivacy
@@ -37090,6 +37202,7 @@ HOST-SUFFIX,utiq.elcorreoweb.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.eldia.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.eldiario.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.eldiariomontanes.es,BanEasyPrivacy
+HOST-SUFFIX,utiq.elmueble.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.elmundo.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.elnacional.cat,BanEasyPrivacy
 HOST-SUFFIX,utiq.elnortedecastilla.es,BanEasyPrivacy
@@ -37099,8 +37212,12 @@ HOST-SUFFIX,utiq.elperiodicodearagon.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.elperiodicoextremadura.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.elperiodicomediterraneo.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.emporda.info,BanEasyPrivacy
+HOST-SUFFIX,utiq.entrenous.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.epe.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.espinof.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.europapress.es,BanEasyPrivacy
+HOST-SUFFIX,utiq.europapress.tv,BanEasyPrivacy
+HOST-SUFFIX,utiq.eventfinder.at,BanEasyPrivacy
 HOST-SUFFIX,utiq.eventfinder.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.expansion.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.extratipp.com,BanEasyPrivacy
@@ -37113,6 +37230,8 @@ HOST-SUFFIX,utiq.finanzfrage.net,BanEasyPrivacy
 HOST-SUFFIX,utiq.fitbook.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.fnp.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.focus.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.football.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.football365.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.fr.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.frandroid.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.fuehrerscheintest-online.de,BanEasyPrivacy
@@ -37121,11 +37240,13 @@ HOST-SUFFIX,utiq.futurezone.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.gala.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.gamekult.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.genbeta.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.genialetricks.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.geo.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.gesundheitsfrage.net,BanEasyPrivacy
 HOST-SUFFIX,utiq.giessener-allgemeine.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.giga.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.grazia.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.groupmintelligence.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.gutefrage.net,BanEasyPrivacy
 HOST-SUFFIX,utiq.hallo-eltern.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.hallo-muenchen.de,BanEasyPrivacy
@@ -37137,26 +37258,34 @@ HOST-SUFFIX,utiq.heimatsport.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.helpster.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.hersfelder-zeitung.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.hna.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.hola.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.hoy.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.huelva24.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.ideal.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.informacion.es,BanEasyPrivacy
+HOST-SUFFIX,utiq.infosalus.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.ingame.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.ingolstadt-today.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.inspirational.es,BanEasyPrivacy
+HOST-SUFFIX,utiq.instyle.es,BanEasyPrivacy
+HOST-SUFFIX,utiq.ippen.media,BanEasyPrivacy
+HOST-SUFFIX,utiq.jakala.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.jamesonwhiskey.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.jdelhommeau.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.jeuxvideo.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.jux.news,BanEasyPrivacy
 HOST-SUFFIX,utiq.kino.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.kreis-anzeiger.de,BanEasyPrivacy
-HOST-SUFFIX,utiq.kreisbote.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.kreiszeitung.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.kundendienst-info.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.kurierverlag.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.lacentrale.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.lachainemeteo.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.lacronicabadajoz.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.ladepeche.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.lagacetadesalamanca.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.landtiere.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.lanouvellerepublique.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.laopinioncoruna.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.laopiniondemalaga.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.laopiniondemurcia.es,BanEasyPrivacy
@@ -37173,6 +37302,8 @@ HOST-SUFFIX,utiq.lavoixdunord.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.lavozdigital.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.le10sport.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.lebenindeutschland.eu,BanEasyPrivacy
+HOST-SUFFIX,utiq.leckerschmecker.me,BanEasyPrivacy
+HOST-SUFFIX,utiq.lecturas.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.lefigaro.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.lejournaldelamaison.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.lemessager.fr,BanEasyPrivacy
@@ -37184,7 +37315,9 @@ HOST-SUFFIX,utiq.levante-emv.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.lexpress.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.liberation-champagne.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.lidl.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.lidl.pl,BanEasyPrivacy
 HOST-SUFFIX,utiq.lindependant.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.listisima.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.lne.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.lunion.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.madmoizelle.com,BanEasyPrivacy
@@ -37192,19 +37325,29 @@ HOST-SUFFIX,utiq.maennerseite.net,BanEasyPrivacy
 HOST-SUFFIX,utiq.mahou.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.maison-travaux.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.mallorcazeitung.es,BanEasyPrivacy
+HOST-SUFFIX,utiq.manager-magazin.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.manga-viewer.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.mappy.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.mappyrecette.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.marca.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.mariefrance.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.marmiton.org,BanEasyPrivacy
 HOST-SUFFIX,utiq.meine-anzeigenzeitung.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.mejorconectados.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.melty.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.merklespaintech.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.merkur.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.meteoconsult.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.metodomontessori.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.midilibre.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.millenium.gg,BanEasyPrivacy
 HOST-SUFFIX,utiq.millenium.org,BanEasyPrivacy
+HOST-SUFFIX,utiq.mittelbayerische-stellen.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.mittelbayerische.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.mno.link,BanEasyPrivacy
+HOST-SUFFIX,utiq.mobilite-verte.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.modesettravaux.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.moin.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.monacomatin.mc,BanEasyPrivacy
 HOST-SUFFIX,utiq.mopo.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.motor-talk.de,BanEasyPrivacy
@@ -37212,9 +37355,14 @@ HOST-SUFFIX,utiq.motorradfrage.net,BanEasyPrivacy
 HOST-SUFFIX,utiq.movistar.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.mundoxiaomi.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.myhomebook.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.nationalgeographic.com.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.neonmag.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.news.bayern,BanEasyPrivacy
 HOST-SUFFIX,utiq.news38.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.nextplz.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.nicematin.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.nicematin.net,BanEasyPrivacy
+HOST-SUFFIX,utiq.noovomoi.ca,BanEasyPrivacy
 HOST-SUFFIX,utiq.nordlittoral.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.nostalgie.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.nrj-play.fr,BanEasyPrivacy
@@ -37222,7 +37370,9 @@ HOST-SUFFIX,utiq.nrj.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.nrpyrenees.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.numerama.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.oberhessische-zeitung.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.oktoberfest.bayern,BanEasyPrivacy
 HOST-SUFFIX,utiq.op-online.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.orange.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.ouest-france.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.ozap.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.palladiumhotelgroup.com,BanEasyPrivacy
@@ -37238,8 +37388,10 @@ HOST-SUFFIX,utiq.pnp.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.poprosa.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.programme-tv.net,BanEasyPrivacy
 HOST-SUFFIX,utiq.programme.tv,BanEasyPrivacy
+HOST-SUFFIX,utiq.promiflash.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.psychologies.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.ptitchef.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.publisher-demo.media,BanEasyPrivacy
 HOST-SUFFIX,utiq.purebreak.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.purepeople.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.regio7.cat,BanEasyPrivacy
@@ -37249,10 +37401,12 @@ HOST-SUFFIX,utiq.renew.auto,BanEasyPrivacy
 HOST-SUFFIX,utiq.rireetchansons.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.rmcbfmplay.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.rugbyrama.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.sabervivirtv.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.salamancahoy.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.sauerlandkurier.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.schlager.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.science-et-vie.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.semana.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.sensacine.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.serienjunkies.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.sevilla.abc.es,BanEasyPrivacy
@@ -37264,7 +37418,10 @@ HOST-SUFFIX,utiq.spielaffe.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.sport.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.sportlerfrage.net,BanEasyPrivacy
 HOST-SUFFIX,utiq.sports.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.staging--hb.hmg.systems,BanEasyPrivacy
 HOST-SUFFIX,utiq.staging--wiwo.hmg.systems,BanEasyPrivacy
+HOST-SUFFIX,utiq.stg.noovomoi.bellmedia.ca,BanEasyPrivacy
+HOST-SUFFIX,utiq.stilo.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.stimme.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.stylebook.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.sudouest.fr,BanEasyPrivacy
@@ -37276,10 +37433,15 @@ HOST-SUFFIX,utiq.tatort-fans.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.techbook.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.telefonica.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.telekom.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.telestar.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.telva.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.terrafemina.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.testfaz.net,BanEasyPrivacy
+HOST-SUFFIX,utiq.thestar.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.thewatmag.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.thueringen24.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.tierfans.net,BanEasyPrivacy
+HOST-SUFFIX,utiq.tim.it,BanEasyPrivacy
 HOST-SUFFIX,utiq.todoalicante.es,BanEasyPrivacy
 HOST-SUFFIX,utiq.topsante.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.traum-deutung.de,BanEasyPrivacy
@@ -37289,6 +37451,7 @@ HOST-SUFFIX,utiq.tvspielfilm.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.tz.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.usinger-anzeiger.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.utest1-prod.work,BanEasyPrivacy
+HOST-SUFFIX,utiq.utest2-prod.work,BanEasyPrivacy
 HOST-SUFFIX,utiq.utest2.work,BanEasyPrivacy
 HOST-SUFFIX,utiq.utest3-prod.work,BanEasyPrivacy
 HOST-SUFFIX,utiq.utest3.work,BanEasyPrivacy
@@ -37298,16 +37461,22 @@ HOST-SUFFIX,utiq.verisure.fr,BanEasyPrivacy
 HOST-SUFFIX,utiq.vidaextra.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.vitonica.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.voici.fr,BanEasyPrivacy
+HOST-SUFFIX,utiq.volksfest-freising.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.wa.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.webedia.io,BanEasyPrivacy
+HOST-SUFFIX,utiq.webnachrichten.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.welt-ctv.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.welt.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.werra-rundschau.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.wetterauer-zeitung.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.wieistmeineip.de,BanEasyPrivacy
+HOST-SUFFIX,utiq.wiesn.bayern,BanEasyPrivacy
 HOST-SUFFIX,utiq.wiwo.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.wlz-online.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.wmn.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.wochenblatt.de,BanEasyPrivacy
 HOST-SUFFIX,utiq.xataka.com,BanEasyPrivacy
+HOST-SUFFIX,utiq.xatakaciencia.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.xatakafoto.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.xatakahome.com,BanEasyPrivacy
 HOST-SUFFIX,utiq.xatakamovil.com,BanEasyPrivacy
@@ -37421,9 +37590,11 @@ HOST-SUFFIX,vfdemsp.mno.link,BanEasyPrivacy
 HOST-SUFFIX,vfes.mno.link,BanEasyPrivacy
 HOST-SUFFIX,vfesmsp.mno.link,BanEasyPrivacy
 HOST-SUFFIX,vfghe.com,BanEasyPrivacy
+HOST-SUFFIX,vfit.mno.link,BanEasyPrivacy
 HOST-SUFFIX,vfmahn.slevomat.cz,BanEasyPrivacy
 HOST-SUFFIX,vfo.voyage-prive.co.uk,BanEasyPrivacy
 HOST-SUFFIX,vfo4.carrefour-banque.fr,BanEasyPrivacy
+HOST-SUFFIX,vfuk.mno.link,BanEasyPrivacy
 HOST-SUFFIX,vfvcxv.naturhaeuschen.de,BanEasyPrivacy
 HOST-SUFFIX,vg247-uk.vg247.com,BanEasyPrivacy
 HOST-SUFFIX,vgavzy.spierandmackay.com,BanEasyPrivacy
@@ -37447,6 +37618,7 @@ HOST-SUFFIX,vi.adviso.ca,BanEasyPrivacy
 HOST-SUFFIX,via.ssl.holdmybeerconsulting.com,BanEasyPrivacy
 HOST-SUFFIX,vibsqr.theuiq.com,BanEasyPrivacy
 HOST-SUFFIX,video-ad-stats.googlesyndication.com,BanEasyPrivacy
+HOST-SUFFIX,video-intel.pixels.ai,BanEasyPrivacy
 HOST-SUFFIX,video.bzfd.it,BanEasyPrivacy
 HOST-SUFFIX,video.funnelbox.com,BanEasyPrivacy
 HOST-SUFFIX,video.verintsystemsinc.com,BanEasyPrivacy
@@ -39048,7 +39220,6 @@ HOST-SUFFIX,xmqrvx.jewelry-queen-shop.com,BanEasyPrivacy
 HOST-SUFFIX,xmyvhu.soxo.pl,BanEasyPrivacy
 HOST-SUFFIX,xnukcp.cpcompany.com,BanEasyPrivacy
 HOST-SUFFIX,xp.allianz.de,BanEasyPrivacy
-HOST-SUFFIX,xp2023-pix.s3.amazonaws.com,BanEasyPrivacy
 HOST-SUFFIX,xpcpmr.gsm55.com,BanEasyPrivacy
 HOST-SUFFIX,xps.huk.de,BanEasyPrivacy
 HOST-SUFFIX,xps.huk24.de,BanEasyPrivacy
@@ -39253,6 +39424,7 @@ HOST-SUFFIX,yourporsche.nabooda-auto.com,BanEasyPrivacy
 HOST-SUFFIX,yourporscheimg.nabooda-auto.com,BanEasyPrivacy
 HOST-SUFFIX,yoursolution.electrified.averydennison.com,BanEasyPrivacy
 HOST-SUFFIX,yoursolution.tapes.averydennison.com,BanEasyPrivacy
+HOST-SUFFIX,youseasky.com,BanEasyPrivacy
 HOST-SUFFIX,yoxeha.afloral.com,BanEasyPrivacy
 HOST-SUFFIX,ypbfjo.paulsmith.co.jp,BanEasyPrivacy
 HOST-SUFFIX,ypcdbw.drive2.com,BanEasyPrivacy
@@ -39457,6 +39629,7 @@ HOST-SUFFIX,znlgke.jiobit.com,BanEasyPrivacy
 HOST-SUFFIX,znmtka.kikocosmetics.com,BanEasyPrivacy
 HOST-SUFFIX,znq9.destinia.mx,BanEasyPrivacy
 HOST-SUFFIX,znrttr.jaypore.com,BanEasyPrivacy
+HOST-SUFFIX,zodalt.com,BanEasyPrivacy
 HOST-SUFFIX,zodhqv.peterson.fr,BanEasyPrivacy
 HOST-SUFFIX,zodxgk.lecoqsportif.com,BanEasyPrivacy
 HOST-SUFFIX,zombieslayer-alternate.kano.link,BanEasyPrivacy
