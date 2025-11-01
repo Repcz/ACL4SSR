@@ -1,0 +1,9 @@
+# 规则名称: Epic
+# 规则统计: 6
+
+HOST-SUFFIX,epicgames.com,Epic
+HOST-SUFFIX,epicgames.dev,Epic
+HOST-SUFFIX,helpshift.com,Epic
+HOST-SUFFIX,ol.epicgames.com,Epic
+HOST-SUFFIX,paragon.com,Epic
+HOST-SUFFIX,unrealengine.com,Epic

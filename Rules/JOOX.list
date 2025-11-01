@@ -1,0 +1,7 @@
+# 规则名称: JOOX
+# 规则统计: 4
+
+HOST-SUFFIX,joox.com,JOOX
+HOST-KEYWORD,jooxweb-api,JOOX
+USER-AGENT,JOOX*,JOOX
+USER-AGENT,WeMusic*,JOOX

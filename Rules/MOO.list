@@ -1,0 +1,5 @@
+# 规则名称: MOO
+# 规则统计: 2
+
+USER-AGENT,MOO*,MOO
+USER-AGENT,TencentMidasConnect*,MOO

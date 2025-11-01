@@ -1,0 +1,5 @@
+# 规则名称: PBS
+# 规则统计: 2
+
+HOST-SUFFIX,pbs.org,PBS
+USER-AGENT,PBS*,PBS

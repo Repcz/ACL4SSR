@@ -1,0 +1,26 @@
+# 规则名称: Wechat
+# 规则统计: 23
+
+HOST-SUFFIX,qlogo.cn,Wechat
+HOST-SUFFIX,qpic.cn,Wechat
+HOST-SUFFIX,servicewechat.com,Wechat
+HOST-SUFFIX,tenpay.com,Wechat
+HOST-SUFFIX,wechat.com,Wechat
+HOST-SUFFIX,wechatlegal.net,Wechat
+HOST-SUFFIX,wechatpay.com,Wechat
+HOST-SUFFIX,weixin.com,Wechat
+HOST-SUFFIX,weixin.qq.com,Wechat
+HOST-SUFFIX,weixinbridge.com,Wechat
+HOST-SUFFIX,weixinsxy.com,Wechat
+HOST-SUFFIX,wxapp.tc.qq.com,Wechat
+IP-CIDR,101.32.104.4/32,Wechat
+IP-CIDR,101.32.104.41/32,Wechat
+IP-CIDR,101.32.104.56/32,Wechat
+IP-CIDR,101.32.118.25/32,Wechat
+IP-CIDR,101.32.133.16/32,Wechat
+IP-CIDR,101.32.133.209/32,Wechat
+IP-CIDR,101.32.133.53/32,Wechat
+IP-CIDR,129.226.107.244/32,Wechat
+IP-CIDR,129.226.3.47/32,Wechat
+USER-AGENT,MicroMessenger*,Wechat
+USER-AGENT,WeChat*,Wechat

@@ -1,0 +1,6 @@
+# 规则名称: AppleNews
+# 规则统计: 3
+
+HOST,gspe1-ssl.ls.apple.com,AppleNews
+USER-AGENT,AppleNews*,AppleNews
+USER-AGENT,com.apple.news*,AppleNews
