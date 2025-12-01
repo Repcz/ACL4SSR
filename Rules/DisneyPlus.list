@@ -1,0 +1,25 @@
+# 规则名称: DisneyPlus
+# 规则统计: 22
+
+HOST,cdn.registerdisney.go.com,DisneyPlus
+HOST-SUFFIX,adobedtm.com,DisneyPlus
+HOST-SUFFIX,bam.nr-data.net,DisneyPlus
+HOST-SUFFIX,bamgrid.com,DisneyPlus
+HOST-SUFFIX,braze.com,DisneyPlus
+HOST-SUFFIX,cdn.optimizely.com,DisneyPlus
+HOST-SUFFIX,cdn.registerdisney.go.com,DisneyPlus
+HOST-SUFFIX,cws.conviva.com,DisneyPlus
+HOST-SUFFIX,d9.flashtalking.com,DisneyPlus
+HOST-SUFFIX,disney-plus.net,DisneyPlus
+HOST-SUFFIX,disney-portal.my.onetrust.com,DisneyPlus
+HOST-SUFFIX,disney.demdex.net,DisneyPlus
+HOST-SUFFIX,disney.my.sentry.io,DisneyPlus
+HOST-SUFFIX,disneyplus.bn5x.net,DisneyPlus
+HOST-SUFFIX,disneyplus.com,DisneyPlus
+HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,DisneyPlus
+HOST-SUFFIX,disneystreaming.com,DisneyPlus
+HOST-SUFFIX,dssott.com,DisneyPlus
+HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,DisneyPlus
+HOST-SUFFIX,js-agent.newrelic.com,DisneyPlus
+USER-AGENT,Disney*,DisneyPlus
+USER-AGENT,Disney+*,DisneyPlus

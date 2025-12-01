@@ -1,0 +1,6 @@
+# 规则名称: All4
+# 规则统计: 3
+
+HOST-SUFFIX,c4assets.com,All4
+HOST-SUFFIX,channel4.com,All4
+USER-AGENT,All4*,All4

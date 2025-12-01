@@ -1,0 +1,8 @@
+# 规则名称: Sony
+# 规则统计: 5
+
+HOST-SUFFIX,playstation.com,Sony
+HOST-SUFFIX,playstation.net,Sony
+HOST-SUFFIX,playstationnetwork.com,Sony
+HOST-SUFFIX,sony.com,Sony
+HOST-SUFFIX,sonyentertainmentnetwork.com,Sony
