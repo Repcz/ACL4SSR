@@ -1,0 +1,6 @@
+# 规则名称: CCTV
+# 规则统计: 3
+
+HOST-SUFFIX,cctv.com,CCTV
+HOST-SUFFIX,cctvpic.com,CCTV
+HOST-SUFFIX,livechina.com,CCTV

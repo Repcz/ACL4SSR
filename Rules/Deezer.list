@@ -1,0 +1,6 @@
+# 规则名称: Deezer
+# 规则统计: 3
+
+HOST-SUFFIX,deezer.com,Deezer
+HOST-SUFFIX,dzcdn.net,Deezer
+USER-AGENT,Deezer*,Deezer

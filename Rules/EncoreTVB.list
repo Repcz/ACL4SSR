@@ -1,0 +1,9 @@
+# 规则名称: EncoreTVB
+# 规则统计: 6
+
+HOST,bcbolt446c5271-a.akamaihd.net,EncoreTVB
+HOST,content.jwplatform.com,EncoreTVB
+HOST,edge.api.brightcove.com,EncoreTVB
+HOST,videos-f.jwpsrv.com,EncoreTVB
+HOST-SUFFIX,encoretvb.com,EncoreTVB
+USER-AGENT,encoreTVB*,EncoreTVB

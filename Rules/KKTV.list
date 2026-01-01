@@ -1,0 +1,9 @@
+# 规则名称: KKTV
+# 规则统计: 6
+
+HOST,kktv-theater.kk.stream,KKTV
+HOST,theater-kktv.cdn.hinet.net,KKTV
+HOST-SUFFIX,kktv.com.tw,KKTV
+HOST-SUFFIX,kktv.me,KKTV
+USER-AGENT,KKTV*,KKTV
+USER-AGENT,com.kktv.ios.kktv*,KKTV

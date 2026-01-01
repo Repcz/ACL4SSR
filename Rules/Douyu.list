@@ -1,0 +1,10 @@
+# 规则名称: Douyu
+# 规则统计: 7
+
+HOST-SUFFIX,bytefcdnrd.com,Douyu
+HOST-SUFFIX,douyu.com,Douyu
+HOST-SUFFIX,douyu.tv,Douyu
+HOST-SUFFIX,douyucdn.cn,Douyu
+HOST-SUFFIX,douyuscdn.com,Douyu
+HOST-SUFFIX,douyutv.com,Douyu
+HOST-SUFFIX,edgesrv.com,Douyu
