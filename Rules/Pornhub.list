@@ -1,0 +1,7 @@
+# 规则名称: Pornhub
+# 规则统计: 4
+
+HOST-SUFFIX,phncdn.com,Pornhub
+HOST-SUFFIX,phprcdn.com,Pornhub
+HOST-SUFFIX,pornhub.com,Pornhub
+HOST-SUFFIX,pornhubpremium.com,Pornhub

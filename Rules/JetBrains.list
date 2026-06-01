@@ -1,0 +1,18 @@
+# 规则名称: JetBrains
+# 规则统计: 15
+
+HOST-SUFFIX,datalore.io,JetBrains
+HOST-SUFFIX,grazie.ai,JetBrains
+HOST-SUFFIX,grazie.aws.intellij.net,JetBrains
+HOST-SUFFIX,intellij.com,JetBrains
+HOST-SUFFIX,intellij.net,JetBrains
+HOST-SUFFIX,intellij.org,JetBrains
+HOST-SUFFIX,jetbrains.ai,JetBrains
+HOST-SUFFIX,jetbrains.com,JetBrains
+HOST-SUFFIX,jetbrains.net,JetBrains
+HOST-SUFFIX,jetbrains.org,JetBrains
+HOST-SUFFIX,jetbrains.space,JetBrains
+HOST-SUFFIX,jetbrains.team,JetBrains
+HOST-SUFFIX,kotlinconf.com,JetBrains
+HOST-SUFFIX,kotlinlang.org,JetBrains
+,JetBrains

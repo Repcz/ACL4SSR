@@ -1,0 +1,5 @@
+# 规则名称: TencentVideo
+# 规则统计: 2
+
+HOST-SUFFIX,v.smtcdns.com,TencentVideo
+HOST-SUFFIX,vv.video.qq.com,TencentVideo

@@ -1,0 +1,6 @@
+# 规则名称: Kingsoft
+# 规则统计: 3
+
+HOST-SUFFIX,iciba.com,Kingsoft
+HOST-SUFFIX,ksosoft.com,Kingsoft
+HOST-SUFFIX,ksyun.com,Kingsoft

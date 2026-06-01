@@ -1,0 +1,5 @@
+# 规则名称: ABC
+# 规则统计: 2
+
+HOST-SUFFIX,edgedatg.com,ABC
+HOST-SUFFIX,go.com,ABC

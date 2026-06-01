@@ -1,0 +1,8 @@
+# 规则名称: PublicDirectCDN
+# 规则统计: 5
+
+HOST-SUFFIX,baomitu.com,PublicDirectCDN
+HOST-SUFFIX,bootcss.com,PublicDirectCDN
+HOST-SUFFIX,jiasule.com,PublicDirectCDN
+HOST-SUFFIX,staticfile.org,PublicDirectCDN
+HOST-SUFFIX,upaiyun.com,PublicDirectCDN

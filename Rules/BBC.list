@@ -1,0 +1,6 @@
+# 规则名称: BBC
+# 规则统计: 3
+
+HOST-SUFFIX,bbc.co,BBC
+HOST-SUFFIX,bbc.com,BBC
+HOST-KEYWORD,uk-live,BBC
