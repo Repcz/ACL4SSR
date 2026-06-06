@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFWlist
-# 规则统计: 4186
+# 规则统计: 4187
 
 HOST-SUFFIX,*.pimg.tw,ProxyGFWlist
 HOST-SUFFIX,*.sf.net,ProxyGFWlist
@@ -2677,7 +2677,6 @@ HOST-SUFFIX,pachosting.com,ProxyGFWlist
 HOST-SUFFIX,pacom.mil,ProxyGFWlist
 HOST-SUFFIX,pacopacomama.com,ProxyGFWlist
 HOST-SUFFIX,page.link,ProxyGFWlist
-HOST-SUFFIX,pages.dev,ProxyGFWlist
 HOST-SUFFIX,paimon.moe,ProxyGFWlist
 HOST-SUFFIX,pancakeswap.finance,ProxyGFWlist
 HOST-SUFFIX,pandafan.pub,ProxyGFWlist
@@ -3289,6 +3288,7 @@ HOST-SUFFIX,surfeasy.com,ProxyGFWlist
 HOST-SUFFIX,surfeasy.com.au,ProxyGFWlist
 HOST-SUFFIX,surfshark.com,ProxyGFWlist
 HOST-SUFFIX,surrenderat20.net,ProxyGFWlist
+HOST-SUFFIX,suyingtv.com,ProxyGFWlist
 HOST-SUFFIX,swagbucks.com,ProxyGFWlist
 HOST-SUFFIX,swapspace.co,ProxyGFWlist
 HOST-SUFFIX,swissinfo.ch,ProxyGFWlist
@@ -3972,6 +3972,7 @@ HOST-SUFFIX,wowhead.com,ProxyGFWlist
 HOST-SUFFIX,wowporn.com,ProxyGFWlist
 HOST-SUFFIX,woyaolian.org,ProxyGFWlist
 HOST-SUFFIX,wp.com,ProxyGFWlist
+HOST-SUFFIX,wplace.live,ProxyGFWlist
 HOST-SUFFIX,wpoforum.com,ProxyGFWlist
 HOST-SUFFIX,writesonic.com,ProxyGFWlist
 HOST-SUFFIX,wsj.com,ProxyGFWlist
