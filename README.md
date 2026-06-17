@@ -1,10 +1,9 @@
-ACL4SSR
----
+# ACL4SSR
 
-### 本转换项目代码均由ChatGPT撰写，如有遗漏或错误请自行修改
+Quantumult X 规则集，每日自动同步上游 [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash) Clash 规则并转换格式。
 
-### 本规则均适配为 QuantumultX 规则
+> 自动构建工作流由 DeepSeek 生成
 
-### 规则数据来源：
+## License
 
-- [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash)
+[GNU General Public License v3.0](LICENSE)
