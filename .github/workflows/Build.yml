@@ -90,7 +90,7 @@ jobs:
         done
 
     # =========================================================================
-    # Step 4: 平台适配（Surge/QX 格式转换 + 策略名追加）
+    # Step 4: 平台适配（QX 格式转换 + 策略名追加）
     # =========================================================================
     - name: Platform Adaptation
       run: |
@@ -98,7 +98,7 @@ jobs:
         cd Rules
         for file in *.list; do
           if [ -f "$file" ]; then
-            # 删除逻辑规则（Surge/QX 原生不支持 AND/OR/NOT/DEST-PORT）
+            # 删除逻辑规则（QX 原生不支持 AND/OR/NOT/DEST-PORT）
             sed -i -e '/^PROCESS-NAME/d' "$file"
             sed -i -e '/^AND/d' "$file"
             sed -i -e '/^OR/d' "$file"
