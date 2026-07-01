@@ -1,0 +1,10 @@
+# 规则名称: Xbox
+# 规则统计: 7
+
+HOST-SUFFIX,gamepass.com,Xbox
+HOST-SUFFIX,xbox.com,Xbox
+HOST-SUFFIX,xboxab.com,Xbox
+HOST-SUFFIX,xboxab.net,Xbox
+HOST-SUFFIX,xboxlive.com,Xbox
+HOST-SUFFIX,xboxservice.com,Xbox
+HOST-SUFFIX,xboxservices.com,Xbox

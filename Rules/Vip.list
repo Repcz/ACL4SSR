@@ -1,0 +1,7 @@
+# 规则名称: Vip
+# 规则统计: 4
+
+HOST-SUFFIX,appsimg.com,Vip
+HOST-SUFFIX,appvipshop.com,Vip
+HOST-SUFFIX,vip.com,Vip
+HOST-SUFFIX,vipstatic.com,Vip

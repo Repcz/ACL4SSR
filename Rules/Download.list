@@ -1,0 +1,12 @@
+# 规则名称: Download
+# 规则统计: 9
+
+HOST-SUFFIX,smtp,Download
+HOST-KEYWORD,aria2,Download
+URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|xunlei)(..+)?,Download
+URL-REGEX,(.+.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan).(cn|com),Download
+URL-REGEX,(.+\.|^)(360|so)\.(cn|com),Download
+URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.),Download
+URL-REGEX,(Subject|HELO|SMTP),Download
+URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com,Download
+URL-REGEX,assets\d+\.xboxlive\.(com|cn),Download

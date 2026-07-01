@@ -1,0 +1,10 @@
+# 规则名称: Origin
+# 规则统计: 7
+
+HOST,cloudsync-prod.s3.amazonaws.com,Origin
+HOST,eaasserts-a.akamaihd.net,Origin
+HOST,origin-a.akamaihd.net,Origin
+HOST,originasserts.akamaized.net,Origin
+HOST,rtm.tnt-ea.com,Origin
+HOST-SUFFIX,ea.com,Origin
+HOST-SUFFIX,origin.com,Origin

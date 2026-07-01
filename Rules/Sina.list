@@ -1,0 +1,17 @@
+# 规则名称: Sina
+# 规则统计: 14
+
+HOST-SUFFIX,leju.com,Sina
+HOST-SUFFIX,miaopai.com,Sina
+HOST-SUFFIX,sina.cn,Sina
+HOST-SUFFIX,sina.com,Sina
+HOST-SUFFIX,sina.com.cn,Sina
+HOST-SUFFIX,sinaapp.cn,Sina
+HOST-SUFFIX,sinaapp.com,Sina
+HOST-SUFFIX,sinaimg.cn,Sina
+HOST-SUFFIX,sinaimg.com,Sina
+HOST-SUFFIX,weibo.cn,Sina
+HOST-SUFFIX,weibo.com,Sina
+HOST-SUFFIX,weibocdn.cn,Sina
+HOST-SUFFIX,weibocdn.com,Sina
+HOST-SUFFIX,xiaoka.tv,Sina
