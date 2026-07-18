@@ -1,5 +1,5 @@
 # 规则名称: ProxyGFWlist
-# 规则统计: 4296
+# 规则统计: 4297
 
 HOST-SUFFIX,*.pimg.tw,ProxyGFWlist
 HOST-SUFFIX,*.sf.net,ProxyGFWlist
@@ -21,6 +21,7 @@ HOST-SUFFIX,1688.com.au,ProxyGFWlist
 HOST-SUFFIX,173ng.com,ProxyGFWlist
 HOST-SUFFIX,18board.com,ProxyGFWlist
 HOST-SUFFIX,18comic.org,ProxyGFWlist
+HOST-SUFFIX,18comic.vip,ProxyGFWlist
 HOST-SUFFIX,18mh.net,ProxyGFWlist
 HOST-SUFFIX,1984bbs.com,ProxyGFWlist
 HOST-SUFFIX,1991way.com,ProxyGFWlist
