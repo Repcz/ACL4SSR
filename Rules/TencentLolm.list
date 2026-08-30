@@ -1,0 +1,6 @@
+# 规则名称: TencentLolm
+# 规则统计: 3
+
+HOST-SUFFIX,riotcdn.net,TencentLolm
+HOST-SUFFIX,riotgames.com,TencentLolm
+HOST-SUFFIX,wr.pvp.net,TencentLolm

@@ -1,0 +1,5 @@
+# 规则名称: Download
+# 规则统计: 2
+
+HOST-SUFFIX,smtp,Download
+HOST-KEYWORD,aria2,Download

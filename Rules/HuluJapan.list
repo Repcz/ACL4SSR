@@ -1,0 +1,9 @@
+# 规则名称: HuluJapan
+# 规则统计: 6
+
+HOST-SUFFIX,happyon.jp,HuluJapan
+HOST-SUFFIX,hjholdings.jp,HuluJapan
+HOST-SUFFIX,hulu.jp,HuluJapan
+HOST-SUFFIX,prod.hjholdings.tv,HuluJapan
+HOST-SUFFIX,streaks.jp,HuluJapan
+HOST-SUFFIX,yb.uncn.jp,HuluJapan

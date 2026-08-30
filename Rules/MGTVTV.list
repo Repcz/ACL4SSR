@@ -1,0 +1,6 @@
+# 规则名称: MGTVTV
+# 规则统计: 3
+
+HOST-SUFFIX,hitv.com,MGTVTV
+HOST-SUFFIX,hunantv.com,MGTVTV
+HOST-SUFFIX,mgtv.com,MGTVTV

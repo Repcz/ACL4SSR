@@ -1,0 +1,8 @@
+# 规则名称: AbemaTV
+# 规则统计: 5
+
+HOST-SUFFIX,abema.io,AbemaTV
+HOST-SUFFIX,abema.tv,AbemaTV
+HOST-SUFFIX,ameba.jp,AbemaTV
+HOST-SUFFIX,hayabusa.io,AbemaTV
+HOST-KEYWORD,abematv.akamaized.net,AbemaTV

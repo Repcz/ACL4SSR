@@ -1,0 +1,5 @@
+# 规则名称: IqiyiHMT
+# 规则统计: 2
+
+HOST,cache.video.iqiyi.com,IqiyiHMT
+HOST-SUFFIX,iq.com,IqiyiHMT

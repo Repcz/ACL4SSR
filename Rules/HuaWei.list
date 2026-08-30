@@ -1,0 +1,13 @@
+# 规则名称: HuaWei
+# 规则统计: 10
+
+HOST-SUFFIX,dbankcdn.com,HuaWei
+HOST-SUFFIX,hc-cdn.com,HuaWei
+HOST-SUFFIX,hicloud.com,HuaWei
+HOST-SUFFIX,hihonor.com,HuaWei
+HOST-SUFFIX,huawei.com,HuaWei
+HOST-SUFFIX,huaweicloud.com,HuaWei
+HOST-SUFFIX,huaweishop.net,HuaWei
+HOST-SUFFIX,hwccpc.com,HuaWei
+HOST-SUFFIX,vmall.com,HuaWei
+HOST-SUFFIX,vmallres.com,HuaWei

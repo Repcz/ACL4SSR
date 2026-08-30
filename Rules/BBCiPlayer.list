@@ -1,0 +1,17 @@
+# 规则名称: BBCiPlayer
+# 规则统计: 14
+
+HOST,aod-dash-uk-live.akamaized.net,BBCiPlayer
+HOST,aod-hls-uk-live.akamaized.net,BBCiPlayer
+HOST,vod-dash-uk-live.akamaized.net,BBCiPlayer
+HOST,vod-thumb-uk-live.akamaized.net,BBCiPlayer
+HOST-SUFFIX,bbc.co,BBCiPlayer
+HOST-SUFFIX,bbc.co.uk,BBCiPlayer
+HOST-SUFFIX,bbc.com,BBCiPlayer
+HOST-SUFFIX,bbc.net.uk,BBCiPlayer
+HOST-SUFFIX,bbcfmt.hs.llnwd.net,BBCiPlayer
+HOST-SUFFIX,bbci.co,BBCiPlayer
+HOST-SUFFIX,bbci.co.uk,BBCiPlayer
+HOST-SUFFIX,bidi.net.uk,BBCiPlayer
+HOST-KEYWORD,bbcfmt,BBCiPlayer
+HOST-KEYWORD,uk-live,BBCiPlayer
