@@ -1,0 +1,12 @@
+# 规则名称: Stripe
+# 规则统计: 9
+
+HOST-SUFFIX,link.com,Stripe
+HOST-SUFFIX,stripe-terminal-local-reader.net,Stripe
+HOST-SUFFIX,stripe.com,Stripe
+HOST-SUFFIX,stripe.dev,Stripe
+HOST-SUFFIX,stripe.events,Stripe
+HOST-SUFFIX,stripe.global,Stripe
+HOST-SUFFIX,stripe.network,Stripe
+HOST-SUFFIX,stripeassets.com,Stripe
+HOST-SUFFIX,stripecdn.com,Stripe

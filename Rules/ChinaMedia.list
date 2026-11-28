@@ -1,5 +1,5 @@
 # 规则名称: ChinaMedia
-# 规则统计: 37
+# 规则统计: 38
 
 HOST,apiintl.biliapi.net,ChinaMedia
 HOST,intel-cache.m.iqiyi.com,ChinaMedia
@@ -19,6 +19,7 @@ HOST-SUFFIX,bilibili.com,ChinaMedia
 HOST-SUFFIX,bilibili.tv,ChinaMedia
 HOST-SUFFIX,biligame.com,ChinaMedia
 HOST-SUFFIX,biligame.net,ChinaMedia
+HOST-SUFFIX,biliimg.com,ChinaMedia
 HOST-SUFFIX,bilivideo.cn,ChinaMedia
 HOST-SUFFIX,bilivideo.com,ChinaMedia
 HOST-SUFFIX,hdslb.com,ChinaMedia

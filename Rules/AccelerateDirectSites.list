@@ -1,6 +1,7 @@
 # 规则名称: AccelerateDirectSites
-# 规则统计: 245
+# 规则统计: 251
 
+HOST,cn.download.nvidia.com,AccelerateDirectSites
 HOST-SUFFIX,10010.com,AccelerateDirectSites
 HOST-SUFFIX,115.com,AccelerateDirectSites
 HOST-SUFFIX,12306.com,AccelerateDirectSites
@@ -76,6 +77,7 @@ HOST-SUFFIX,fantasy.tv,AccelerateDirectSites
 HOST-SUFFIX,feng.com,AccelerateDirectSites
 HOST-SUFFIX,fengkongcloud.com,AccelerateDirectSites
 HOST-SUFFIX,fir.im,AccelerateDirectSites
+HOST-SUFFIX,focuschina.com,AccelerateDirectSites
 HOST-SUFFIX,frdic.com,AccelerateDirectSites
 HOST-SUFFIX,fresh-ideas.cc,AccelerateDirectSites
 HOST-SUFFIX,ganji.com,AccelerateDirectSites
@@ -130,11 +132,13 @@ HOST-SUFFIX,lizhifm.com,AccelerateDirectSites
 HOST-SUFFIX,luoo.net,AccelerateDirectSites
 HOST-SUFFIX,lvmama.com,AccelerateDirectSites
 HOST-SUFFIX,lxdns.com,AccelerateDirectSites
+HOST-SUFFIX,made-in-china.com,AccelerateDirectSites
 HOST-SUFFIX,maoyan.com,AccelerateDirectSites
 HOST-SUFFIX,meilishuo.com,AccelerateDirectSites
 HOST-SUFFIX,meituan.com,AccelerateDirectSites
 HOST-SUFFIX,meituan.net,AccelerateDirectSites
 HOST-SUFFIX,meizu.com,AccelerateDirectSites
+HOST-SUFFIX,micstatic.com,AccelerateDirectSites
 HOST-SUFFIX,migucloud.com,AccelerateDirectSites
 HOST-SUFFIX,miguvideo.com,AccelerateDirectSites
 HOST-SUFFIX,mobike.com,AccelerateDirectSites
@@ -197,6 +201,7 @@ HOST-SUFFIX,tianyaui.com,AccelerateDirectSites
 HOST-SUFFIX,tietuku.com,AccelerateDirectSites
 HOST-SUFFIX,tiexue.net,AccelerateDirectSites
 HOST-SUFFIX,tmiaoo.com,AccelerateDirectSites
+HOST-SUFFIX,trademessenger.com,AccelerateDirectSites
 HOST-SUFFIX,trip.com,AccelerateDirectSites
 HOST-SUFFIX,ttmeiju.com,AccelerateDirectSites
 HOST-SUFFIX,tudou.com,AccelerateDirectSites
@@ -205,6 +210,7 @@ HOST-SUFFIX,tuniucdn.com,AccelerateDirectSites
 HOST-SUFFIX,umengcloud.com,AccelerateDirectSites
 HOST-SUFFIX,upyun.com,AccelerateDirectSites
 HOST-SUFFIX,uxengine.net,AccelerateDirectSites
+HOST-SUFFIX,vemic.com,AccelerateDirectSites
 HOST-SUFFIX,videocc.net,AccelerateDirectSites
 HOST-SUFFIX,vivo.com,AccelerateDirectSites
 HOST-SUFFIX,wandoujia.com,AccelerateDirectSites

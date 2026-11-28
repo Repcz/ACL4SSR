@@ -1,13 +1,15 @@
 # 规则名称: ChinaDomain
-# 规则统计: 634
+# 规则统计: 642
 
 HOST,auth.wosms.cn,ChinaDomain
+HOST,cn.download.nvidia.com,ChinaDomain
 HOST,config.cmpassport.com,ChinaDomain
 HOST,csgo.wmsj.cn,ChinaDomain
 HOST,dl.steam.clngaa.com,ChinaDomain
 HOST,dl.steam.ksyna.com,ChinaDomain
 HOST,dota2.wmsj.cn,ChinaDomain
 HOST,enrichgw.10010.com,ChinaDomain
+HOST,gstore.val.manlaxy.com,ChinaDomain
 HOST,hmrz.wo.cn,ChinaDomain
 HOST,id.mail.wo.cn,ChinaDomain
 HOST,log.cmpassport.com,ChinaDomain
@@ -220,11 +222,13 @@ HOST-SUFFIX,feiliao.com,ChinaDomain
 HOST-SUFFIX,feng.com,ChinaDomain
 HOST-SUFFIX,fengkongcloud.com,ChinaDomain
 HOST-SUFFIX,fir.im,ChinaDomain
+HOST-SUFFIX,focuschina.com,ChinaDomain
 HOST-SUFFIX,foxmail.com,ChinaDomain
 HOST-SUFFIX,frdic.com,ChinaDomain
 HOST-SUFFIX,fresh-ideas.cc,ChinaDomain
 HOST-SUFFIX,ganji.com,ChinaDomain
 HOST-SUFFIX,ganjistatic1.com,ChinaDomain
+HOST-SUFFIX,gcloudsvcs.com,ChinaDomain
 HOST-SUFFIX,geetest.com,ChinaDomain
 HOST-SUFFIX,geilicdn.com,ChinaDomain
 HOST-SUFFIX,ghpym.com,ChinaDomain
@@ -340,6 +344,7 @@ HOST-SUFFIX,lofter.com,ChinaDomain
 HOST-SUFFIX,luoo.net,ChinaDomain
 HOST-SUFFIX,lvmama.com,ChinaDomain
 HOST-SUFFIX,lxdns.com,ChinaDomain
+HOST-SUFFIX,made-in-china.com,ChinaDomain
 HOST-SUFFIX,maoyan.com,ChinaDomain
 HOST-SUFFIX,meilishuo.com,ChinaDomain
 HOST-SUFFIX,meipai.com,ChinaDomain
@@ -353,6 +358,7 @@ HOST-SUFFIX,mgtv.com,ChinaDomain
 HOST-SUFFIX,mi-img.com,ChinaDomain
 HOST-SUFFIX,mi.com,ChinaDomain
 HOST-SUFFIX,miaopai.com,ChinaDomain
+HOST-SUFFIX,micstatic.com,ChinaDomain
 HOST-SUFFIX,migucloud.com,ChinaDomain
 HOST-SUFFIX,miguvideo.com,ChinaDomain
 HOST-SUFFIX,miui.com,ChinaDomain
@@ -508,6 +514,7 @@ HOST-SUFFIX,toutiaohao.com,ChinaDomain
 HOST-SUFFIX,toutiaohao.net,ChinaDomain
 HOST-SUFFIX,toutiaoimg.com,ChinaDomain
 HOST-SUFFIX,toutiaopage.com,ChinaDomain
+HOST-SUFFIX,trademessenger.com,ChinaDomain
 HOST-SUFFIX,trip.com,ChinaDomain
 HOST-SUFFIX,ttmeiju.com,ChinaDomain
 HOST-SUFFIX,tudou.com,ChinaDomain
@@ -521,6 +528,7 @@ HOST-SUFFIX,upaiyun.com,ChinaDomain
 HOST-SUFFIX,upyun.com,ChinaDomain
 HOST-SUFFIX,uxengine.net,ChinaDomain
 HOST-SUFFIX,v-56.com,ChinaDomain
+HOST-SUFFIX,vemic.com,ChinaDomain
 HOST-SUFFIX,videocc.net,ChinaDomain
 HOST-SUFFIX,vip.com,ChinaDomain
 HOST-SUFFIX,vipstatic.com,ChinaDomain

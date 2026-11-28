@@ -1,5 +1,5 @@
 # 规则名称: BanAD
-# 规则统计: 588
+# 规则统计: 589
 
 HOST-SUFFIX,09mk.cn,BanAD
 HOST-SUFFIX,100peng.com,BanAD
@@ -390,6 +390,9 @@ HOST-SUFFIX,o2omobi.com,BanAD
 HOST-SUFFIX,oadz.com,BanAD
 HOST-SUFFIX,oneapm.com,BanAD
 HOST-SUFFIX,onetad.com,BanAD
+HOST-SUFFIX,openx.net,BanAD
+HOST-SUFFIX,openxenterprise.com,BanAD
+HOST-SUFFIX,openxmarket.asia,BanAD
 HOST-SUFFIX,optaim.com,BanAD
 HOST-SUFFIX,optimix.asia,BanAD
 HOST-SUFFIX,optimix.cn,BanAD
@@ -458,7 +461,6 @@ HOST-SUFFIX,supersonic.com,BanAD
 HOST-SUFFIX,switchadhub.com,BanAD
 HOST-SUFFIX,sycbbs.com,BanAD
 HOST-SUFFIX,synacast.com,BanAD
-HOST-SUFFIX,sysdig.com,BanAD
 HOST-SUFFIX,taboola.com,BanAD
 HOST-SUFFIX,talkingdata.com,BanAD
 HOST-SUFFIX,talkingdata.net,BanAD
@@ -582,7 +584,6 @@ HOST-KEYWORD,dwtrack,BanAD
 HOST-KEYWORD,guanggao,BanAD
 HOST-KEYWORD,omgmta,BanAD
 HOST-KEYWORD,omniture,BanAD
-HOST-KEYWORD,openx,BanAD
 HOST-KEYWORD,partnerad,BanAD
 HOST-KEYWORD,pingfore,BanAD
 HOST-KEYWORD,socdm,BanAD

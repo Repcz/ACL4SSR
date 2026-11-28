@@ -1,5 +1,5 @@
 # 规则名称: AI
-# 规则统计: 49
+# 规则统计: 55
 
 HOST,ai.google.dev,AI
 HOST,aistudio.google.com,AI
@@ -10,7 +10,10 @@ HOST,bard.google.com,AI
 HOST,console.groq.com,AI
 HOST,copilot-proxy.githubusercontent.com,AI
 HOST,gemini.google.com,AI
+HOST,geminiweb-pa.clients.google.com,AI
+HOST,geminiweb-pa.clients6.google.com,AI
 HOST,generativelanguage.googleapis.com,AI
+HOST,notebooklm-pa.googleapis.com,AI
 HOST,notebooklm.google.com,AI
 HOST,sydney.bing.com,AI
 HOST-SUFFIX,ai.azure.com,AI
@@ -18,6 +21,7 @@ HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,auth0.com,AI
 HOST-SUFFIX,bard.google.com,AI
 HOST-SUFFIX,chatgpt.com,AI
+HOST-SUFFIX,clau.de,AI
 HOST-SUFFIX,claude.ai,AI
 HOST-SUFFIX,claude.com,AI
 HOST-SUFFIX,claudeusercontent.com,AI
@@ -31,6 +35,7 @@ HOST-SUFFIX,featuregates.org,AI
 HOST-SUFFIX,gemini.google.com,AI
 HOST-SUFFIX,grazie.ai,AI
 HOST-SUFFIX,grazie.aws.intellij.net,AI
+HOST-SUFFIX,grok.com,AI
 HOST-SUFFIX,identrust.com,AI
 HOST-SUFFIX,intercom.io,AI
 HOST-SUFFIX,intercomcdn.com,AI
@@ -48,5 +53,6 @@ HOST-SUFFIX,perplexity.ai,AI
 HOST-SUFFIX,sora.com,AI
 HOST-SUFFIX,x.ai,AI
 HOST-KEYWORD,anthropic,AI
+HOST-KEYWORD,antigravity,AI
 HOST-KEYWORD,claude,AI
 HOST-KEYWORD,openai,AI

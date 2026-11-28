@@ -1,0 +1,6 @@
+# 规则名称: ChinaAPP
+# 规则统计: 3
+
+HOST,PROCESS-PATH-REGEX,(?:^|/)哔哩哔哩\.app/Contents/MacOS/[^/]+$,ChinaAPP
+HOST,PROCESS-PATH-REGEX,(?:^|/)喜马拉雅\.app/Contents/MacOS/[^/]+$,ChinaAPP
+HOST,PROCESS-PATH-REGEX,(?:^|/)抖音\.app/Contents/MacOS/[^/]+$,ChinaAPP
